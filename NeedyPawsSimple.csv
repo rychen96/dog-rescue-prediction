@@ -1,0 +1,3090 @@
+﻿Dog ID,Days in Rescue,Adoption Fee,Sex,Color,Size,Altered Prior to Intake (Y/N/U)
+A0001,30,$250,M,Yellow,Medium,Y
+A0002,47,$250,F,Black & Tan,Medium,N
+A0003,31,$175,F,Brindle,Medium,Y
+A0004,90,$250,F,Red  ,Large,N
+A0005,11,$195,F,Tan,Small,N
+A0006,83,$175,F,Tan,Small,Y
+A0009,21,$250,M,Tan & Black,Large,N
+A0010,255,$195,F,Red,Medium,N
+A0011,64,$250,F,White with Tan spots,Small,N
+A0012,76,$250,F,Black w white,Medium,N
+A0013,55,$250,M,Brown and white,Medium,N
+A0014,16,$250,M,Grey Merle,Small,N
+A0015,79,$195,M,Liver & White,Medium,Y
+A0017,27,$250,F,Tan & White,Medium,Y
+A0018,73,$250,F,Black & White,Medium,N
+A0019,8,$250,F,Black & Grey,Small,Y
+A0020,125,$195,F,Brindle,Medium,N
+A0023,33,$250,F,Black & White,Medium,N
+A0024,0,$250,F,White,X Large,N
+A0026,25,$250,F,Black & Brown,Medium,N
+A0028,11,$250,M,Black,Large,N
+A0030,146,$250,F,Black & White ,Medium,N
+A0031,51,$250,M,White/Yellow,Medium,N
+A0032,25,$250,F,Brown & White,Medium,N
+A0033,20,$250,F,Brown & White,Medium,N
+A0034,11,$250,M,Black,Medium,N
+A0035,55,$250,M,Brown & White,Medium,N
+A0038,40,$250,M,Black,Medium,N
+A0039,36,$250,M,Tan,Medium,N
+A0040,74,$250,F,White with brown/black markings,Medium,N
+A0041,9,$250,M,Black,Medium,Y
+A0042,62,$250,M,Black with White,Medium,N
+A0043,6,$250,M,Brown & White,Small,N
+A0047,11,$250,F,Black & White,Small,N
+A0048,66,$250,M,Black & White,Large,N
+A0050,24,$250,F,Tan & White,Medium,N
+A0051,74,$250,M,Tan with Black Mask,Medium,N
+A0053,23,$250,F,Black,Medium,N
+A0054,31,$250,M,Black,Medium,N
+A0055,211,$250,M,White w/ black,Medium,N
+A0058,53,$250,M,Red,Small,N
+A0061,54,$250,F,Tricolor,Medium,N
+A0062,34,$250,F,Tricolor,Medium,N
+A0063,15,$250,F,Black & Tan,Small,N
+A0065,47,$250,F,Black & White,Medium,N
+A0067,61,$250,F,Black & White,Medium,N
+A0068,26,$250,F,Brindle & White,Medium,N
+A0069,51,$250,F,White/Yellow,Medium,N
+A0071,74,$250,F,Black & White,Medium,N
+A0073,51,$250,F,White/Yellow,Medium,N
+A0074,12,$250,F,Black & White,Medium,N
+A0075,31,$250,F,Black & White,Medium,N
+A0078,110,$195,M,brown/white,Medium,N
+A0079,28,$250,M,Grey & white,Medium,N
+A0080,9,$250,M,Tan & White,Medium,N
+A0082,14,$250,F,Brown & Black,Large,N
+A0083,28,$250,F,Brown & White,Medium,N
+A0084,14,$195,F,Tan & Grey,Small,N
+A0087,44,$250,M,Black & White,Medium,N
+A0088,53,$250,M,Brindle,Medium,N
+A0089,10,$250,M,Black & White,Medium,N
+A0090,80,$250,M,White,Medium,N
+A0091,34,$250,F,Black & White,Medium,N
+A0092,10,$250,F,Brown & White,Medium,Y
+A0096,0,$250,F,Black & White,Small,N
+A0097,15,$195,F,Yellow,Medium,N
+A0098,93,$250,F,Black,Medium,N
+A0100,83,$250,F,Tan/white,Medium,N
+A0103,90,$250,F,White with black,Medium,N
+A0105,194,$250,F,Tan and white,Medium,N
+A0106,91,$250,F,Tan and white,Medium,N
+A0107,60,$250,M,Black & Tan,Large,N
+A0108,98,$250,M,Black & White,Medium,N
+A0112,5,$250,M,Tan & White,Medium,N
+A0114,47,$250,M,White with Brown Spots,Medium,N
+A0115,6,$250,M,Black,Medium,N
+A0116,12,$250,F,Black,Medium,Y
+A0119,35,$250,F,Blue & White,Medium,N
+A0121,25,$250,M,White & Black,Medium,N
+A0122,27,$195,M,Blue Brindle & white,Medium,N
+A0123,8,$250,M,Black & Tan,Large,N
+A0124,55,$175,M,Apricot,Small,N
+A0125,26,$250,M,Black,Medium,N
+A0126,13,$250,M,Tan,Medium,N
+A0127,72,$250,M,White & Brown,Medium,N
+A0128,0,$250,M,Tricolor,Small,N
+A0129,26,$250,M,Tricolor,Medium,N
+A0131,17,$250,M,Tricolor,Medium,N
+A0132,17,$250,F,Black & Brown,Large,N
+A0133,36,$250,F,Brown & White,Medium,N
+A0135,23,$250,F,White & Black,Small,N
+A0137,41,$250,F,Tan,Medium,N
+A0140,64,$250,F,Black & White,Medium,N
+A0141,68,$250,F,Tricolor,Medium,N
+A0142,10,$250,M,Black & White,Small,N
+A0143,71,$250,F,Black & White,Medium,N
+A0144,51,$250,F,White/Yellow,Medium,N
+A0145,27,$250,M,Brown,Medium,N
+A0146,250,$250,F,Brindle,Medium,N
+A0147,32,$250,F,Brindle,Medium,N
+A0148,19,$250,M,Brown & White,Medium,N
+A0149,10,$250,M,Black,Medium,N
+A0150,59,$250,M,Black & Grey,Small,N
+A0151,56,$195,M,White,Small,N
+A0152,32,$250,M,Black  ,Medium,N
+A0153,7,$250,M,Red,Small,N
+A0154,144,$250,M ,Choc w white,Medium,N
+A0155,38,$125,F,Fawn & White,Small,Y
+A0156,38,$250,F,Tan & White,Medium,N
+A0157,35,$250,M,Black,Medium,N
+A0159,64,$250,M,White,Medium,N
+A0160,20,$125,F,Grey with Black,Small,N
+A0161,10,$250,F,Brindle,Medium,N
+A0162,47,$250,M,Tricolor,Medium,N
+A0164,78,$250,F,White,Medium,N
+A0165,17,$250,F,Black,Large,N
+A0167,29,$250,F,Black,Medium,N
+A0168,16,$250,F,Brown & White,Medium,N
+A0170,191,$250,F,Tan,Medium,N
+A0171,74,$250,M,Black & White,Medium,N
+A0172,48,$250,M,Black w/Tan around eyes,Medium,N
+A0173,37,$250,M,Tan & White,Medium,N
+A0174,6,$250,M,White,Large,N
+A0175,31,$250,F,Black & Tan,Medium,N
+A0176,12,$250,F,Black & White,Medium,N
+A0177,26,$250,F,Black & white,Large,N
+A0178,26,$250,F,Black & white,Large,N
+A0179,25,$250,F,Brown,Medium,N
+A0180,91,$250,F,white and black,Medium,N
+A0182,319,$250,M,Black,Medium,N
+A0183,66,$250,M,Tricolor,Small,N
+A0185,54,$250,F,Red,Medium,N
+A0186,64,$250,F,Black w/Tan around eyes,Medium,N
+A0187,9,$250,F,Black & White,Small,N
+A0188,28,$250,F,Brown & Tan,Medium,N
+A0189,41,$250,F,White,Small,N
+A0190,29,$250,F,Blonde(Fawn),Medium,N
+A0191,18,$250,M,Fawn & Black,Medium,Y
+A0192,36,$250,M,Tricolor,Small,N
+A0193,19,$175,M,Cream/Apricot,Small,N
+A0194,49,$250,F,Brown,Medium,Y
+A0195,62,$250,F,Tricolor,Small,N
+A0199,73,$250,F,Brown,Small,N
+A0200,31,$250,F,Brown & Tan,Small,N
+A0201,11,$250,F,White,Medium,N
+A0202,17,$250,F,Black & Brown,Large,N
+A0203,4,$250,F,Blue,Medium,N
+A0206,324,$250,F,White/Brown,Medium,N
+A0207,29,$250,F,White/Brown,Medium,N
+A0208,24,$250,F,Black & Tan,Small,N
+A0209,14,$250,F,Black,Medium,N
+A0211,17,$250,M,Black?Brown & White,Medium,N
+A0212,34,$250,F,Black,Medium,N
+A0213,28,$250,M,Black & Tan,Small,N
+A0214,131,$250,F,Black & Grey,Large,N
+A0215,5,$250,F,Tricolor,Small,Y
+A0216,24,$175,F,Black & Brown,Small,N
+A0217,14,$250,F,Black & Tan,Small,N
+A0218,66,$250,F,Brown,Medium,N
+A0219,26,$195,M,Brown,Small,Y
+A0220,40,$125,M,White,Small,Y
+A0222,43,$250,F,White/Brown,Small,N
+A0223,9,$250,F,Tan & White,Small,N
+A0224,14,$250,F,Yellow,Medium,N
+A0225,18,$250,F,Black Brindle & White,Medium,N
+A0226,38,$100,M,Brindle & White,Medium,Y
+A0227,22,$250,M,Black,Large,N
+A0228,16,$250,M,Tan & White,Small,N
+A0229,89,$250,M,Tricolor,Medium,N
+A0230,14,$250,M,Black,Small,N
+A0231,23,$125,M,Brown,Small,Y
+A0232,112,$250,M,Black & White,Medium,Y
+A0235,22,$250,F,Brindle & White,Medium,Y
+A0236,17,$250,F,Tan,Medium,N
+A0237,0,$250,F,Tricolor,Small,Y
+A0238,13,$250,F,Tricolor,Medium,N
+A0239,0,$250,F,White,Small,N
+A0240,7,$125,F,White,Small,N
+A0241,14,$250,F,White & Tan,Medium,U
+A0243,38,$195,M,Blue & White,Medium,N
+A0244,25,$250,M,Black,Large,N
+A0245,37,$250,M,Black & Tan,Medium,N
+A0246,10,$250,M,Black & White,Medium,Y
+A0247,20,$250,M,Black&white,Medium,n
+A0249,19,$195,M,White & Brown,Small,N
+A0250,33,$250,F,Black & Brown,Medium,N
+A0251,75,$250,F,Brown,Small,N
+A0252,0,$250,F,White,Small,N
+A0253,21,$250,F,Black,Medium,N
+A0254,23,$250,F,Black & White,Medium,N
+A0255,36,$250,M,Black,Small,N
+A0256,8,$250,M,Black & Tan,Small,N
+A0257,15,$250,M,Grey,Small,Y
+A0259,196,$195,M,Red Brindle,Medium,N
+A0260,9,$250,M,White,Large,N
+A0261,5,$250,M,Red  ,Small,N
+A0262,87,$250,F,Tan & Black long hair white on chin,Small,N
+A0263,17,$250,F,Merle/Catahoula Tri clolor,Medium,N
+A0264,20,$250,M,Tan,Medium,N
+A0265,22,$250,M,"Black, white, brown",Medium,N
+A0267,27,$250,M,Tricolor,Medium,N
+A0269,14,$250,M,Yellow,Large,N
+A0271,4,$250,M,Yellow,Large,N
+A0272,43,$250,M,Red & White,Medium,N
+A0273,65,$250,M,Black,Medium,N
+A0274,29,$250,M,Brown,Medium,N
+A0276,50,$250,M,Grey & Tan,Small,Y
+A0278,32,$250,M,White,Medium,N
+A0279,74,$250,F,Brindle,Small,N
+A0280,38,$250,F,Red,Medium,N
+A0282,50,$250,M,Brindle & White,Medium,N
+A0283,410,$100,F,Red & White,Medium,Y
+A0284,43,$250,M,Tan,Small,Y
+A0285,26,$250,M,Black,,N
+A0286,36,$250,M,Black,Medium,N
+A0287,45,$195,M,Black & White,Medium,Y
+A0288,33,$250,M,Black,Large,Y
+A0289,33,$250,M,Yellow,Medium,N
+A0290,11,$75,M,Tricolor,Small,Y
+A0291,46,$250,M,White,Large,N
+A0292,4,$250,M,Yellow,Medium,N
+A0294,51,$250,M,Brown,Medium,N
+A0295,55,$250,F,Brown w/white ring around neck,Small,N
+A0296,11,$125,M,White,Small,N
+A0298,17,$250,F,Black & White,Medium,N
+A0299,14,$175,F,White & Grey,Small,Y
+A0301,35,$250,M,Black,Medium,N
+A0302,24,$250,M,Black & Tan,Large,N
+A0303,32,$250,M,Brown,Medium,N
+A0304,29,$250,M,Tan,Small,Y
+A0305,15,$195,M,White,Small,Y
+A0306,10,$195,M,Tan & White,Small,N
+A0307,10,$250,M,Black & White,Medium,N
+A0308,33,$250,F,Black & White,Medium,N
+A0309,38,$250,F,light brown,Small,N
+A0311,22,$250,M,Black & White,Medium,N
+A0312,10,$250,M,Silver & Tan,Small,N
+A0313,22,$250,M,Tricolor,Medium,N
+A0314,19,$250,M,Blue,Medium,Y
+A0315,52,$250,M,Merle,Medium,N
+A0316,10,$250,F,Brindle,Medium,N
+A0317,93,$250,F,Black & White,Large,N
+A0318,64,$250,M,Black & Brown w/drk brwn head,Small,N
+A0319,9,$250,M,Black & Brown,Small,N
+A0321,28,$250,M,Grey,Medium,N
+A0322,29,$250,F,Lab/Cur,Medium,N
+A0323,33,$250,M,Black & Tan,Small,N
+A0324,20,$195,M,Brindle & White,Large,N
+A0325,55,$250,F,Tan w/white face,Small,N
+A0326,10,$195,F,Black & White,Small,N
+A0327,18,$250,F,Black,Medium,Y
+A0328,57,$250,F,Black & White,Medium,N
+A0330,47,$250,F,Brown & White,Small,N
+A0331,57,$250,F,Tan,Small,N
+A0332,10,$250,F,Tan,Medium,N
+A0333,17,$195,F,White,Small,Y
+A0334,27,$250,F,White & Grey,Small,N
+A0338,3,$125,F,Tan & White,Small,N
+A0339,13,$250,F,Black & White,Medium,N
+A0340,39,$250,F,White & Black,Medium,N
+A0341,39,$250,F,White & Black,Medium,N
+A0342,28,$250,F,Black & White,Medium,N
+A0343,9,$250,F,Golden,Large,Y
+A0344,80,$250,F,Black  ,Medium,N
+A0347,13,$250,F,Tricolor,Medium,N
+A0348,134,$195,F,White & Blue,Medium,N
+A0349,22,$250,M,Tan,Small,N
+A0350,11,$250,F,Black and white,Medium,N
+A0351,20,$250,M,Black,Medium,N
+A0352,174,$250,M,Black & White,Medium,N
+A0354,0,$250,M,White & Tan,Small,N
+A0355,20,$250,M,Black/Silver/grey,Small,N
+A0356,15,$250,M,Briwn & Black Brindle,Small,N
+A0357,102,$250,M,Brown & WHite,Small,N
+A0358,16,$250,M,Brown & WHite,Small,N
+A0359,1,$250,M,Cream,Small,Y
+A0360,8,$250,M,Red & White,Medium,N
+A0362,22,$250,M,White and tan,Small,N
+A0363,42,$250,M,Tricolor,Medium,N
+A0364,77,$250,M,Brown & Tan,Medium,N
+A0365,59,$250,M,Black & White,Medium,Y
+A0366,34,$250,M,Black & White,Medium,Y
+A0367,157,$250,M,Brown,Small,Y
+A0368,121,$250,M,Brown,Small,Y
+A0371,35,$250,M,White ,Small,N
+A0372,75,$250,M,Black & Tan,Medium,N
+A0373,24,$250,F,Tan & White,Small,N
+A0374,28,$250,F,Black & White,Medium,N
+A0375,16,$250,F,Black & White,Medium,N
+A0376,80,$250,F,Brown,Small,N
+A0377,48,$250,M,Light Brown,Medium,N
+A0378,11,$250,M,Tan & Black,Medium,N
+A0379,50,$195,M,Brown & White,Medium,N
+A0382,23,$250,F,White & Tan,Medium,N
+A0383,25,$250,F,Brown & White,Small,N
+A0388,20,$250,F,Black,Medium,N
+A0389,38,$125,F,Black & White,Small,N
+A0390,174,$100,F,White,Large,N
+A0391,253,$100,F,Fawn,Medium,N
+A0392,0,$250,F,White,Small,N
+A0394,45,$250,F,Brown,Small,N
+A0395,7,$250,F,Brown w/black mask,Large,N
+A0396,101,$250,F,Black & White,Medium,N
+A0397,44,$250,F,Black & White,Medium,N
+A0398,40,$250,F,Dark Brown & White,Medium,N
+A0400,78,$250,F,White with brown/black markings,Medium,N
+A0401,67,$250,M,Brown & Tan,Medium,N
+A0402,15,$250,M,White,Small,N
+A0404,62,$250,M,White with Black head,Medium,N
+A0405,31,$250,F,Brindle (red),Small,Y
+A0406,22,$250,M,Black & White,Medium,N
+A0409,9,$250,M,Brindle & White,Medium,Y
+A0410,83,$250,M,Brown/white,Medium,N
+A0411,15,$250,F,Black & White,Medium,N
+A0413,0,$250,M,Brindle & White,Medium,N
+A0414,10,$250,M,Grey,Small,N
+A0416,0,$250,M,Yellow,Large,N
+A0417,11,$250,M,Tan & White,Small,Y
+A0418,63,$250,F,Brown,Medium,N
+A0419,28,$250,F,Black & Tan,Medium,Y
+A0420,2,$250,F,Brown,Small,N
+A0422,32,$250,M,White,Medium,Y
+A0423,29,$195,F,White & tan,Small,N
+A0424,34,$250,M,Black and White,Medium,N
+A0427,16,$250,M,White & Brown,Small,N
+A0428,22,$250,M,Black,Medium,N
+A0429,13,$195,M,Black & White,Medium,N
+A0430,42,$195,F,Grey & White,Medium,Y
+A0431,22,$195,F,Tan,Small,Y
+A0432,24,$250,M,Tricolor,Medium,N
+A0433,22,$250,F,Black & White,Large,N
+A0436,52,$250,M,White,Medium,N
+A0437,13,$250,F,"Black, White, Tan",Small,N
+A0439,227,$100,M,Brindle & White,Medium,N
+A0441,24,$250,F,Yellow,Medium,N
+A0442,40,$250,F,Blonde,Medium,N
+A0444,21,$250,F,Black & Blue Merle,Medium,N
+A0445,84,$250,M,Black & Brown,Medium,N
+A0446,25,$195,F,Black & White,Medium,Y
+A0448,51,$250,m,Blue,Medium,N
+A0449,27,$195,M,Blue & White,Medium,N
+A0451,19,$250,M,Black,Medium,N
+A0452,9,$250,M,Black,Large,N
+A0454,83,$250,M,Tan/Blk,Small,N
+A0456,11,$250,M,Tan,Medium,N
+A0457,19,$250,M,Black & White,Large,N
+A0459,76,$250,M,Cream(Fawn),Small,N
+A0461,66,$250,M,White w/ brown,Medium,N
+A0462,27,$250,M,Tricolor,Medium,N
+A0463,64,$250,M,Black and white,Medium,N
+A0464,26,$250,M,Tricolor,Medium,N
+A0465,55,$250,F,Black & White,Medium,N
+A0466,79,$250,F,Brown and White,Medium,N
+A0467,115,$250,F,Yellow,Medium,N
+A0468,44,$250,M,Black & Brown w/tan head,Small,N
+A0470,78,$250,M,Brown,Medium,N
+A0471,69,$250,F,Black & brown,Medium,N
+A0473,26,$195,F,Brown & Tan,Medium,N
+A0474,42,$250,M,Black,Medium,N
+A0475,31,$250,M,Black & Brown,Medium,N
+A0476,157,$100,M,White & Black,Medium,N
+A0477,9,$195,M,Grey & White,Medium,N
+A0478,23,$250,M,Black & Brown,Medium,Y
+A0480,41,$250,M,Tan & White,Medium,N
+A0481,31,$250,M,White,X Large,N
+A0482,35,$250,M,Tricolor,Medium,N
+A0483,42,$250,M,Tan & White,Medium,N
+A0484,8,$250,M,Brown & White,Large,N
+A0486,12,$250,M,Tan,Small,N
+A0488,25,$250,M,Brown,Small,Y
+A0490,86,$250,M,White with brown spots,Small,N
+A0494,52,$250,M,Brown,Medium,N
+A0495,22,$250,M,White & Black,Large,N
+A0496,14,$250,M,Tricolor,Medium,N
+A0497,22,$250,M,Black & Brown,Medium,
+A0499,29,$250,F,Brown/tan,Small,N
+A0500,28,$250,F,Brindle & White,Medium,N
+A0502,31,$250,M,Tan & White,Medium,N
+A0503,39,,F,Black & Tan,Medium,N
+A0504,11,$195,F,Black & Tan,Small,N
+A0507,24,$250,M,Yellow,Large,N
+A0508,698,$175,F,Brindle,Medium,N
+A0509,45,$250,F,Lab,Medium,N
+A0510,19,$250,F,Blue Brindle Pitbull,Medium,N
+A0511,42,$250,F,white brown,Medium,N
+A0512,196,$195,F,Brindle,Medium,N
+A0513,19,$195,F,Black,Medium,N
+A0516,18,$250,M,Brown,Medium,N
+A0517,25,$250,M,Brown,Medium,Y
+A0518,49,$250,M,Tan and black,Medium,N
+A0519,0,$250,M,Black & Tan,Medium,N
+A0520,3,$250,M,White & Brown,Medium,N
+A0522,16,$250,F,Yellow,Medium,N
+A0523,72,$250,F,Brown,Medium,N
+A0524,25,$250,F,Tricolor,Small,N
+A0525,37,$250,F,Black,Medium,N
+A0527,69,$195,F,Tan,Medium,N
+A0528,19,$250,F,Red & White,Medium,N
+A0529,5,$250,M,Black & Tan,Large,N
+A0531,29,$250,M,White,Medium,N
+A0532,39,$250,M,Red,Medium,N
+A0533,5,$250,M,Black,Medium,Y
+A0534,41,$195,M,Brown & White,Medium,N
+A0535,56,$250,M,White & Brown,Medium,N
+A0537,31,$250,M,Tan,Medium,N
+A0538,32,$125,F,Black and tan,Medium,Y
+A0539,122,$125,F,Black and tan,Medium,Y
+A0542,16,$250,M,Tricolor,Large,N
+A0543,66,$250,M,Brown w/white,Medium,N
+A0544,231,$175,M,White,Large,N
+A0545,31,$250,M,Black & Tan,Medium,N
+A0546,95,$250,M,Brown with white legs,Small,N
+A0547,17,$250,M,Black,Small,N
+A0548,14,$195,M,Black,Large,Y
+A0549,71,$250,M,Fawn,Medium,N
+A0550,26,$250,M,Blue,Medium,N
+A0552,32,$250,M,Tan with Black,Medium,N
+A0553,38,$250,M,Brown,Small,N
+A0555,4,$250,M,Black & Tan,Medium,N
+A0558,136,$100,F,Brown & White,Medium,N
+A0561,28,$250,M,Tan,Large,Y
+A0562,6,$250,M,White,Medium,N
+A0563,32,$250,M,Black & Brown,Small,N
+A0564,8,$250,M,Silver & Tan,Small,N
+A0566,7,$250,M,Tan,Small,N
+A0568,69,$250,M,Black and brown,Small,N
+A0569,39,$195,M,Tan & White,Small,N
+A0571,37,$195,M,Blue/White/Salt & Pepper,Large,N
+A0572,7,$250,M,Black,Medium,N
+A0573,10,$250,M,Black & White,Large,N
+A0574,0,$250,M,Brindle   ,Medium,N
+A0575,98,$195,M,Brindle & White,Medium,Y
+A0576,66,$195,M,Brindle & White,Medium,Y
+A0578,199,$100,M,Tan,Small,N
+A0579,0,$250,M,Black & Grey,Medium,Y
+A0580,12,$250,M,Black & White,Small,N
+A0583,32,$250,M,Black,Medium,N
+A0585,25,$250,F,Tricolor,Medium,N
+A0586,16,$250,F,white,Small,Y
+A0587,43,$250,M,Blue & Brown,Large,N
+A0589,8,$250,F,White & Black,Small,N
+A0590,51,$250,M,White w/Tricolor Mask,Medium,N
+A0591,18,$250,M,Tan & White,Small,N
+A0592,23,$250,M,Brown,Medium,N
+A0593,12,$250,M,Tricolor,Small,Y
+A0595,65,$195,F,Grey & White,Medium,N
+A0596,9,$250,F,Tan & White,Medium,N
+A0598,34,$100,M,Black,Large,N
+A0599,15,$250,M,Tan,Medium,N
+A0603,29,$195,M,red,Small,Y
+A0608,36,$250,F,Brown & White,Medium,N
+A0609,33,$250,F,Black & White,Medium,Y
+A0610,42,$250,F,Black & Brown,Medium,Y
+A0612,17,$250,F,White,Medium,N
+A0613,71,$250,F,Brown & White,Medium,N
+A0614,68,$250,M,Tricolor,Medium,N
+A0615,20,$250,M,"Grey, white and tan",Small,N
+A0616,11,$250,M,Tan w/White,Medium,n
+A0617,130,$195,M,White & Tan,Medium,N
+A0618,0,$250,M,White,Medium,N
+A0619,8,$250,F,Blue & White,Medium,Y
+A0620,51,$195,F,Brindle,Medium,N
+A0622,8,$195,F,Black & Tan,Small,N
+A0624,6,$250,F,White & Black,Medium,Y
+A0627,47,$250,F,Black & White,Medium,N
+A0628,4,$250,F,Tricolor,Medium,N
+A0629,28,$250,M,Black & Tan,Small,N
+A0631,33,$250,F,Brindle,Medium,N
+A0632,0,$250,F,White with Brown Spots,Medium,N
+A0633,34,$250,F,Brown & Black,Medium,?
+A0634,27,$195,M,Blue & White,Medium,N
+A0635,32,$250,M,Red,Medium,N
+A0636,9,$250,F,Silver & Tan,Small,N
+A0637,19,$250,F,Brown,Medium,Y
+A0638,12,$250,F,Grey  ,Large,N
+A0642,0,$250,F,Black & Tan,Small,N
+A0643,61,$250,F,Black & White,Medium,N
+A0644,29,$250,F,Black & White,Medium,N
+A0645,272,$100,F,Brindle,Medium,N
+A0647,55,$250,F,Tan with black feet,Medium,N
+A0650,16,$250,M,Brown & White,Medium,N
+A0651,34,$250,M,Tan & Black,Medium,Y
+A0652,29,$250,M,Yellow,Medium,N
+A0655,25,$250,M,Brown & White,Small,N
+A0656,18,$250,M,Black & Brown,Small,N
+A0657,59,$250,F,Tan and Grey,Medium,N
+A0658,6,$195,M,Blue & White,Large,N
+A0660,17,$250,M,Tri color,Medium,N
+A0661,78,$250,M,White with brown/black markings,Medium,N
+A0662,26,$250,F,Black and brown,Small,N
+A0663,61,$250,F,Brown and White,Small,N
+A0665,58,$250,M,Brown and white,Medium,N
+A0667,8,$250,M,Black & White,Medium,N
+A0668,270,$250,F,brown,Medium,N
+A0671,23,$125,M,White,Small,Y
+A0672,11,$250,F,Blonde(Lemon),Large,Y
+A0673,12,$250,F,White,Small,N
+A0674,26,$250,F,Yellow,Medium,N
+A0675,22,$250,F,White & Tan,Small,N
+A0677,155,$175,F,"Red, grey on face",Medium,Y
+A0679,102,$250,F,Black,Medium,N
+A0680,15,$195,F,Brown & White,Large,Y
+A0681,60,$250,F,Tan,Medium,N
+A0683,46,$175,F,Blue & White,Medium,N
+A0684,69,$250,F,Brown and white,Medium,N
+A0686,78,$250,F,Brindle,Medium,N
+A0687,15,$250,M,Brown,Medium,N
+A0688,37,$250,M,White & Brindle,Medium,N
+A0689,18,$195,M,White & Grey,Small,N
+A0690,37,$250,M,Black,Large,Y
+A0691,27,$250,M,Brindle,Medium,N
+A0692,18,$250,F,Tricolor,Small,N
+A0693,52,$250,F,White with tan markings,Medium,N
+A0694,26,$250,M,Black,Large,N
+A0695,9,$250,M,Black & Tan,Medium,N
+A0696,54,$195,M,Black & White,Large,N
+A0697,37,$250,M,Brindle & White,Medium,N
+A0700,19,$250,M,Black & Tan,Medium,N
+A0703,55,$250,M,White with grey spot on butt,Medium,N
+A0704,22,$250,M,Yellow,Medium,N
+A0705,23,$195,M,Blue & White,Medium,Y
+A0706,16,$195,F,White & Brown,Medium,N
+A0707,60,$250,F,Black,Medium,N
+A0708,114,$250,F,Tan,Small,N
+A0710,15,$250,F,Tricolor,Medium,N
+A0711,46,$250,F,Brindle. White stripe down nose,Medium,N
+A0712,52,$250,M,Black,Medium,N
+A0713,38,$250,F,Brindle  ,Medium,N
+A0714,52,$250,M,Brown & White,Medium,N
+A0715,27,$250,M,Brown & White,Large,N
+A0716,22,$250,F,Black  ,Medium,N
+A0717,126,$250,F,Black & White,Medium,N
+A0718,81,$250,M,White brown spots,Small,N
+A0720,47,$250,F,Brindle & White,Medium,N
+A0724,66,$250,M,White w/ brown,Medium,N
+A0725,90,$250,M,Tan & White,Small,N
+A0726,14,$250,M,Tricolor,Small,N
+A0727,50,$250,M,Tricolor,Large,N
+A0728,63,$250,M,Brown & White,Medium,N
+A0729,54,$250,M,Black & Grey,Large,U
+A0730,29,$250,M,Black & Grey,Large,U
+A0731,22,$175,M,White,Large,Y
+A0732,39,$195,M,White,Medium,N
+A0733,23,$195,M,White,Small,N
+A0738,66,$250,F,Grey,,
+A0740,39,$250,M,Gray & White,Small,N
+A0741,38,$250,F,Black & Tan,Medium,N
+A0743,4,$250,F,Brown,Small,
+A0744,11,$250,F,Black,Small,N
+A0745,373,$100,F,Blue,Medium,Y
+A0746,50,$250,M,White w grey and tan,Small,N
+A0747,68,$250,M,White & Brown,Medium,N
+A0748,29,$250,M,Black & White,Medium,N
+A0749,28,$250,M,Black & White,Medium,N
+A0751,16,$125,M,Tan,Medium,Y
+A0752,47,$250,M,Tricolor,Large,N
+A0753,17,$195,M,White,Small,Y
+A0755,14,$175,M,Blonde,Small,Y
+A0756,28,$250,F,Brindle,Small,N
+A0757,72,$250,F,Tan,Medium,N
+A0758,9,$195,F,White,Small,Y
+A0760,20,$250,F,Brindle,Medium,N
+A0762,7,$250,F,Black and Brown and Gray,Medium,N
+A0763,57,$250,F,Black & White,Medium,N
+A0764,69,$250,M,Tan,Small,N
+A0767,11,$250,F,Tan,Small,N
+A0768,28,$125,F,White,Small,Y
+A0770,22,$250,F,Brown,Medium,N
+A0772,358,$250,M,black and tan,Large,N
+A0774,37,$250,M,Black & Tan,Large,N
+A0777,24,$250,M,Black & Tan,Medium,N
+A0778,37,$250,M,Blonde,Small,N
+A0780,30,$250,F,Brindle,Small,N
+A0783,25,$175,M,Red,Small,Y
+A0784,2,$175,M,Red & White,Small,Y
+A0786,0,$250,M,Tan & White,Large,N
+A0787,79,$250,F,Black,Large,N
+A0788,35,$250,F,White with tan markings,Medium,N
+A0790,71,$250,F,Tan & White,Medium,U
+A0791,0,$195,F,White,Small,Y
+A0793,22,$250,M,Brown & Tan,Medium,N
+A0794,24,$250,M,Chocolate,Small,N
+A0796,70,$250,F,Brown & White,Medium,N
+A0797,0,$250,M,Tan with Black mask,Medium,N
+A0798,12,$250,F,Black,Medium,Y
+A0799,13,$195,F,Brindle,Medium,N
+A0800,0,$250,F,Brown & White,Medium,Y
+A0801,16,$250,F,Tan & White,Large,N
+A0802,219,$195,F,White,Small,N
+A0803,17,$175,F,White & Fawn,Small,N
+A0805,11,$195,F,Brindle,Medium,Y
+A0806,80,$250,M,Brown & Tan,Medium,Y
+A0808,233,$250,F,Black,Medium,N
+A0809,12,$250,F,Tan,Medium,Y
+A0810,51,$250,F,Tan,Small,N
+A0812,54,$195,m,Brindle and white,Large,N
+A0813,18,$250,M,Brown,Medium,N
+A0815,14,$195,M,Black and white,Medium,Y
+A0816,6,$250,M,Blue & White,Large,N
+A0817,83,$250,F,Brown & Black,Medium,N
+A0818,34,$250,F,Tri-Color,Medium,N
+A0820,18,$175,F,Brown & White,Medium,N
+A0821,17,$250,F,Tan & Black,Large,N
+A0822,38,$250,F,Blue,Medium,N
+A0823,11,$200,M,White  ,Small,Y
+A0824,39,$250,F,Black,Medium,N
+A0827,62,$250,F,Black & White,Small,N
+A0828,31,$125,F,Tan,Small,Y
+A0829,75,$100,M,Red,Small,N
+A0832,28,$125,F,Tan & White,Small,N
+A0834,0,$250,M,Black & Tan,Medium,N
+A0837,12,$250,F,Yellow,Medium,N
+A0838,20,$250,F,Tricolor,Medium,N
+A0839,11,$200,F,White,Small,Y
+A0840,10,$250,F,Brown & Tan,Medium,N
+A0841,17,$250,F,Tan,Small,N
+A0842,58,$250,M,Brown & Black,Small,N
+A0843,28,$250,M,Chocolate,Medium,N
+A0844,12,$250,M ,Tricolor,Small,N
+A0845,98,$195,M,white w/brindle,Medium,Y
+A0846,25,$250,M,Tri Color,Medium,Y
+A0847,59,$250,M,Black & White,Medium,N
+A0848,67,$250,F,Black & White,Medium,N
+A0849,96,$250,F,Black & Grey,Medium,N
+A0851,382,$250,M,Tricolor,Large,N
+A0852,36,$195,M,Apricot,Small,Y
+A0855,163,$195,M,White & Black,Medium,Y
+A0856,6,$250,M,Black & Tan,Small,Y
+A0857,15,$250,F,Black & White,Medium,Y
+A0858,15,$250,M,Black/Brindle,Small,N
+A0859,51,$195,M,Black/Brindle,Small,Y
+A0860,69,$250,M,Black,Medium,N
+A0861,68,$250,M,Brindle,Medium,N
+A0862,24,$100,M,Brindle & White,Medium,Y
+A0863,784,$195,M,Tan & White,Medium,N
+A0864,65,$250,M,Tan/White,,
+A0865,39,$250,M,Black,Small,N
+A0866,26,$250,M,Black,Medium,N
+A0868,6,$250,M,"Black, Gray and White ",Medium,N
+A0869,25,$250,M,Blue & White,Medium,N
+A0870,29,$250,F,Black,Medium,N
+A0872,9,$195,F,Brindle,Medium,N
+A0873,49,$250,F,Brown,Medium,N
+A0874,23,$250,F,Brown,Medium,N
+A0875,46,$175,F,Tan,Small,Y
+A0876,29,$250,F,tri color,Medium,N
+A0877,27,$150,F,Tan,Medium,Y
+A0878,76,$250,M,Brindle & White,Medium,N
+A0879,8,$195,F,Red,Small,Y
+A0880,31,$250,F,Black,Medium,N
+A0882,21,$175,F,Brown & Tan,Small,Y
+A0883,28,$250,F,Tan,Medium,U
+A0885,15,$195,F,Tan & white,Medium,Y
+A0886,53,$250,F,Chocolate & White ,Medium,N
+A0887,119,$250,M,White and Black,Medium,N
+A0888,28,$250,F,Tricolor,Medium,N
+A0892,112,$195,M,Brown,Small,Y
+A0893,51,$250,F,Black & White,Medium,N
+A0894,70,$195,M,Blue & White,Medium,Y
+A0895,23,$250,M,Black,Medium,N
+A0896,354,$100,M,Brown,Small,N
+A0897,25,$250,M,Black,Medium,N
+A0898,63,$250,F,Tan,Medium,N
+A0899,63,$250,M,Tricolor,Small,N
+A0900,76,$250,M,Tricolor,Medium,N
+A0903,47,$250,F,Tan & cream,Small,Y
+A0905,59,$250,M,Black,Medium,N
+A0907,21,$250,F,Brown,Small,U
+A0908,34,$250,F,Grey & Tan,Medium,N
+A0910,36,$250,F,White with black ,Medium,N
+A0911,64,$250,F,Tan,Small,N
+A0912,10,$250,F,Grey,Small,Y
+A0913,26,$250,F,Yellow,Medium,N
+A0915,23,$250,M,Black & Tan,Small,N
+A0916,25,$250,M,Fawn,Large,N
+A0918,9,$250,M,Tan,Medium,Y
+A0919,11,$250,M,Tricolor,Large,N
+A0920,29,$250,M,Tricolor,Medium,N
+A0921,88,$250,M,Black & Brown,Medium,N
+A0922,5,$250,M,Brindle,Medium,N
+A0929,18,$250,F,tan and browm,Small,Y
+A0930,27,$250,M,Tricolor,Medium,N
+A0932,54,$250,M,Tan & White,Medium,N
+A0933,28,$250,F,Tricolor,Medium,N
+A0934,19,$195,M,White & Brown,Medium,Y
+A0935,13,$250,F,Dark Brown & White,Medium,N
+A0936,33,$250,M,White & Brown,Medium,N
+A0937,24,$250,M,Boston Mix,Medium,N
+A0938,12,$250,M ,Tricolor,Small,N
+A0940,38,$250,M,Black & White,Medium,N
+A0943,19,$250,M,Red,Medium,N
+A0944,13,$250,M,Brown,Small,N
+A0945,48,$250,M,Brown,Small,N
+A0946,15,$250,F,Brown & White,Medium,Y
+A0947,66,$250,M,Brown/Tan,Small,Y
+A0948,28,$250,F,White & Brown,Small,Y
+A0949,53,$250,F,Black & White,Medium,N
+A0951,21,$250,F,Black,Large,N
+A0954,39,$250,M,Black,Medium,N
+A0955,61,$250,M,White with brown markings,Medium,N
+A0956,32,$195,M,Black & White,Medium,N
+A0957,23,$195,F,White,Small,N
+A0958,13,$250,F,Cream,Small,N
+A0959,24,$250,M,Black,Medium,N
+A0961,26,$250,M,White & Tan,Small,N
+A0963,312,$250,M,Chocolate,Large,N
+A0964,51,$250,M,Tan with Black,Medium,N
+A0966,70,$250,F,Chocolate & White ,Medium,N
+A0970,29,$250,M,Black & White,Medium,N
+A0972,53,$250,M,Tan & White,Medium,N
+A0973,64,$250,M,Black,Medium,N
+A0974,23,$250,M,Brown & White,Medium,N
+A0978,36,$250,F,White & Tan,Small,N
+A0980,34,$175,F,White and tan,Small ,N
+A0981,10,$250,F,Black,Medium,U
+A0983,64,$250,F,Black & Tan,Medium,N
+A0984,66,$100,F,Tan,Large,Y
+A0985,15,$250,F,Tricolor,Small,N
+A0986,26,$250,F,White,Medium,N
+A0987,12,$250,F,White and tan,Medium,Y
+A0988,23,$20,F,Yellow,Large,Y
+A0992,16,$250,F,Brown,Small,N
+A0994,15,$250,F,Brindle,Medium,N
+A0995,0,$250,F,Brindle,Medium,N
+A0996,11,$250,F,Brown & White,Medium,N
+A0997,26,$250,F,Black,Small,N
+A0998,33,$250,F,Black & White,Medium,N
+A0999,18,$250,F,Brindle,X Large,N
+A1000,16,$250,F,Brown & Black,Small,N
+A1002,158,$100,M,Tan,Large,N
+A1003,18,$250,F,Black & Tan,Small,N
+A1006,24,$250,M,Chocolate,Small,N
+A1008,122,$250,M,Black & White,Medium,N
+A1009,62,$250,M,Black & White,Medium,N
+A1011,74,$250,M,White,Medium,N
+A1012,10,$195,M,White & Tan,Medium,Y
+A1013,16,$250,M,Tricolor,Small,N
+A1015,35,$250,M,Brown,Medium,N
+A1017,28,$250,F,Brown & White,Medium,N
+A1019,79,$125,F,Blue & White,Medium,Y
+A1020,0,$250,M,Black,Medium,N
+A1021,23,$195,M,White with brown spots,Medium,N
+A1022,82,$250,M,Black,Medium,N
+A1024,24,$250,F,tan,Medium,N
+A1025,90,$250,F,Black & White,Medium,N
+A1026,15,$250,F,Black & White,Medium,N
+A1027,55,$195,F,Black & White,Medium,N
+A1028,81,$250,F,Brown,Medium,N
+A1029,52,$250,F,Black,Medium,N
+A1030,75,$250,M,brown/tan with some white,Medium,N
+A1031,40,$250,F,Brown & Black,Large,N
+A1032,34,$250,F,White & Black,Medium,N
+A1033,42,$250,M,Black & Tan,Small,N
+A1034,79,$250,M,Brown,Medium,N
+A1035,32,$250,F,Brown & Tan,Medium,N
+A1036,44,$250,M,Blue & White,Medium,N
+A1039,30,$250,M,Black and speckled on legs,Medium ,N
+A1040,9,$195,M,Brindle & White,Large,Y
+A1043,52,$250,F,Tan with black mask,Medium,N
+A1044,0,$250,M,White with black spots,Medium,N
+A1046,22,$250,F,Tan,Medium,N
+A1047,13,$250,F,Black,Medium,N
+A1048,38,$250,M,Black & brown,Large,Y
+A1049,6,$250,M,black w/brown,Medium,N
+A1050,45,$195,M,Tan,Large,Y
+A1051,89,$250,F,Brown,Medium,N
+A1052,136,$195,M,Tan & White,Large,Y
+A1053,1,$195,M,Tan & White,Large,Y
+A1054,22,$250,M,Black,Medium,N
+A1055,6,$250,F,Grey & Black,Small,Y
+A1057,22,$250,F,Black,Large,N
+A1058,30,$250,M,Black & White,Medium,N
+A1060,74,$250,F,Black & White,Medium,N
+A1062,142,$195,F,White & Black,Medium,N
+A1063,48,$175,F,White,Small,N
+A1064,24,$250,M,Black & White,Medium,Y
+A1068,59,,M,Black & White,Medium,N
+A1069,64,$250,M,Light Brown & White,Small,N
+A1070,31,$250,M,Black,Medium,N
+A1071,30,$250,M,Brown & Black,Medium,Y
+A1072,75,$250,M,Tricolor,Medium,N
+A1073,95,$195,M,Black & White,Large,Y
+A1075,23,$250,F,Brown,Medium,N
+A1078,2,$250,M,Grey & white,Medium,N
+A1079,74,$250,M,Black & Tan,Medium,N
+A1080,124,$195,M,Black & White,Medium,N
+A1082,38,$250,M,Tan,Medium,N
+A1083,19,$250,M,White & Black,Medium,N
+A1084,90,$175,M,White & Black,Medium,N
+A1086,25,$250,F,Black & White,Medium,N
+A1087,45,$250,F,BLue & White,Medium,N
+A1090,78,$250,F,Black,Small,N
+A1092,26,$250,M,Black & White,Medium,N
+A1094,57,$250,M,Tan,Medium,N
+A1095,47,$250,M,Tan & White,Medium,N
+A1097,37,$250,M,Brown,Medium,N
+A1098,147,$195,M,White w/ Tan ,Medium,N
+A1099,7,$250,F,Brown Merle,Medium,N
+A1100,46,$250,M,Chocolate & White ,Medium,N
+A1101,31,$250,M,Brindle & White,Medium,N
+A1102,22,$250,M,"Black, white, brown",Medium,N
+A1103,100,$195,M,Blue & White,Medium,N
+A1104,15,$195,M,Blue & White,Medium,N
+A1105,26,$250,M,Black & White,Large,N
+A1106,7,$250,F,Black & Brown,Small,N
+A1107,25,$250,F,Black & Brown,Small,N
+A1109,83,$195,F,Brown & White,Medium,N
+A1111,16,$250,F,Black,Small,N
+A1112,38,$250,F,Grey & Black,Small,N
+A1113,12,$250,F,Red & White,Medium,Y
+A1114,31,$250,F,White,Medium,N
+A1115,137,$250,F,White & Brown,Medium,N
+A1117,24,$250,F,White & Black,X Large,Y
+A1118,51,$250,M,Black,Medium,N
+A1119,25,$250,M,Red,Medium,N
+A1120,49,$250,M,Black,Medium,N
+A1121,49,$250,M,Black & White,Small,N
+A1122,33,$250,M,Tricolor,Medium,N
+A1124,60,$250,F,Black & White,Medium,N
+A1125,36,$250,F,BLack & White,Large,N
+A1126,29,$250,F,Blk/Tan/White,Medium,N
+A1127,0,$250,F,Brown & White,Medium,N
+A1132,136,$250,M,Black,Small,N
+A1136,53,$250,F,Chocolate & White ,Medium,N
+A1138,58,$250,M,Black,Medium,N
+A1139,16,$250,F,Black,Medium,N
+A1142,81,$250,M,Black  ,Small,N
+A1143,26,$250,M,Black longer hair,Medium,N
+A1144,53,$250,F,Black,Medium,N
+A1145,46,$250,F,Black/ white,Medium,N
+A1147,13,$250,F,Tan,Medium,N
+A1150,53,$250,F,Black,Medium,N
+A1151,6,$250,F,Black & White,Medium,N
+A1153,32,$250,F,Black & White,Medium,N
+A1154,69,$250,F,Black/white,Medium,N
+A1155,19,$250,M,Black & White,Medium,N
+A1156,25,$175,M,Brown,Small,Y
+A1158,39,$250,F,black white,Medium,N
+A1159,56,$195,M,Blue & White,Medium,Y
+A1166,16,$250,F,Tan,Small,N
+A1167,56,$250,M,Black & White,Medium,N
+A1168,13,$250,M,Brown  ,Medium,N
+A1169,33,$250,M,Brindle,Medium,N
+A1170,21,$250,M,White & Black,Medium,N
+A1171,77,$250,M,White with Black head,Medium,N
+A1172,83,$250,M,White with Black head,Medium,N
+A1173,17,$250,F,Tan & White,Medium,N
+A1174,15,$250,M,Black & Tan,Medium,N
+A1175,9,$250,M,Brown & White,Small,N
+A1176,20,$250,M,Tricolor,Medium,N
+A1177,35,$250,M,White and Tan,Small,N
+A1178,48,$250,F,White with grayish,Large,N
+A1179,17,$250,F,brown/black,Medium,N
+A1180,11,$250,M,Grey & white,Medium,N
+A1181,33,$100,M,Black & White,Large,N
+A1182,65,$125,M,Black & White,Large,N
+A1183,29,$250,M,Brown,Medium,N
+A1184,41,$250,M,brownish and white,Large,N
+A1186,17,$250,M,Tan & White,Large,N
+A1187,28,$250,M,Black & White,Medium,N
+A1189,0,$250,M,Grey & White,Medium,N
+A1190,0,$250,M,Tan & White,Large,N
+A1191,9,$195,M,Black & White,Large,N
+A1192,10,$250,M,,Medium,N
+A1196,65,$250,M,Black & Brown,Medium,N
+A1197,68,$250,M,Black & Tan,Medium,N
+A1200,92,$100,F,Black,Medium,N
+A1202,211,$250,F,Black,Medium,Y
+A1205,42,$250,M,Tan with Black Mask,Medium,N
+A1206,33,$125,M,Blue & White,Large,N
+A1207,66,$250,F,Black w white,Medium,N
+A1208,18,$250,M,Tricolor,Small,N
+A1209,80,$250,M,White,Small,N
+A1210,10,$250,F,Brindle,Small,Y
+A1211,0,$250,M,Black & White,Large,N
+A1212,40,$250,F,Black & Tan,Small,N
+A1213,23,$250,F,Black & White,Medium,N
+A1215,49,$250,M,Black & White,Small,N
+A1216,36,$250,F,Tricolor,Medium,N
+A1217,24,$250,M,Black & Brown,Small,N
+A1219,7,$250,F,White & Brown,Medium,N
+A1220,297,$100,F,Black,Small,N
+A1222,5,$250,M,Black,Small,N
+A1223,20,$250,F,Tricolor,Medium,N
+A1224,19,$250,M,Tan,Medium,N
+A1226,24,$250,F,Black & White,Medium,N
+A1228,10,$250,F,Tricolor,Small,Y
+A1229,14,$250,F,Black & Tan,Medium,N
+A1230,54,$195,F,Black & White,Small,N
+A1231,65,$250,F,Brindle & White,Medium,N
+A1232,64,$250,F,Milk Chocolate with White Belly,Small,N
+A1233,43,$250,F,Tricolor,Small,N
+A1235,20,$250,F,Brown & White,Small,Y
+A1236,20,$250,F,White & Brown,Medium,N
+A1238,7,$195,M,Black & Tan,Small,Y
+A1239,44,$250,M,black and brown,Small ,N
+A1240,47,$250,M,Grey,Small,N
+A1241,12,$250,M,Brindle,Small,N
+A1244,36,$250,F,Black,Medium,N
+A1245,112,$250,F,White & Tan,Medium,N
+A1246,51,$250,F,black & white,Medium,N
+A1247,37,$250,F,Black & Tan,Small,N
+A1250,7,$250,F,Brown & Black,Small,Y
+A1251,61,$250,F,Tan,Medium,N
+A1252,16,$250,M,Black & Tan,Small,N
+A1253,21,$250,F,Black & Tan,Small,N
+A1257,36,$250,F,Black & Tan,Medium,N
+A1258,18,$250,F,Black & Tan,Medium,N
+A1259,17,$250,F,Brindle & White,Small,N
+A1260,66,$250,M,White w/ black,Medium,N
+A1261,60,$250,F,Brown & Tan,Small,N
+A1262,14,$250,F,Tricolor,Medium,N
+A1263,25,$175,F,Black & Tan,Small,U
+A1264,65,$195,F,Brown,Medium,N
+A1265,41,$195,F,Brown,Medium,N
+A1266,12,$250,F,Brown,Medium,N
+A1267,13,$250,F,Yellow,Medium,Y
+A1268,25,$250,F,Tan & White,Medium,N
+A1269,23,$250,F,Black & White,Medium,N
+A1270,32,$250,F,Red,Medium,N
+A1271,24,$250,M,White & brown,Small,N
+A1272,14,$250,M,Black & White,Large,N
+A1273,72,$250,M,Tan,Medium,N
+A1274,36,$250,M,Reddish Brown,Small,N
+A1275,17,$250,F,Tan w/White,Medium,N
+A1276,64,$250,M,Black & Tan,Small,N
+A1277,13,$195,F,White,Medium,Y
+A1278,74,$250,M,Black & Tan,Small,N
+A1279,24,$195,M,Black,Small,N
+A1280,7,$250,M,Blonde(Fawn),Small,N
+A1281,11,$195,M,Tan & White,Medium,N
+A1282,273,$250,M,Tan & White,Small,N
+A1283,24,$250,M,Tan & White,Small,N
+A1284,6,$250,F,Black & Tan,Large,Y
+A1285,23,$250,F,Black & Brown,Small,N
+A1288,0,$250,F,Tricolor,Small,N
+A1289,0,$195,M,Blue & White,Large,N
+A1291,12,$250,F,Tan,Small,N
+A1292,28,$250,F,Black,Medium,N
+A1293,19,$250,F,White & Brown,Small,N
+A1294,74,$250,F,White with Black head,Medium,N
+A1296,25,$195,F,Blue & White,Medium,Y
+A1297,35,$250,F,White,Medium,N
+A1298,27,$250,F,Yellow,Medium,N
+A1299,178,$195,F,Tan,Medium,N
+A1300,0,$250,F,Tan & Black,Medium,N
+A1301,29,$250,F,Tricolor,Medium,N
+A1303,14,$250,M,black white,Medium,N
+A1305,2,$250,M,Brindle,Medium,Y
+A1307,4,$250,F,Black,Small,
+A1309,42,$250,F,Tricolor,Medium,N
+A1311,43,$250,F,Tan,Medium,N
+A1312,50,$250,F,Brown,Medium,N
+A1314,20,$250,F,White & Black,Small,N
+A1315,39,$250,F,Black,Medium,N
+A1319,35,$250,F,Fawn & White,Medium,N
+A1320,69,$250,F,Tricolor,Small,N
+A1321,67,$250,F,Black,Medium,N
+A1324,46,$125,M,Black & Grey,Small,N
+A1326,66,$250,M,Black w white,Medium,N
+A1327,60,$250,F,Black & White,Medium,N
+A1328,15,$250,M,Black & White,Small,N
+A1330,67,$250,F,Brindle & White,Medium,N
+A1332,51,$250,F,White w/Tan mask,Medium,N
+A1333,39,$250,M,Black & White,Medium,N
+A1334,64,$250,F,Black,Medium,N
+A1335,10,$250,M,Brown & Black,Small,N
+A1337,31,$250,M,Black & Tan,Medium,Y
+A1338,55,$250,M,Blue,Medium,N
+A1339,25,$250,M,Fawn,Large,N
+A1341,26,$250,M,Black & Tan,Small,N
+A1342,29,$250,M,Fawn,Small,Y
+A1345,14,$250,M,Black,Medium,N
+A1346,57,$195,M,Black & White,Medium,N
+A1347,29,$250,F,Tan,Medium,N
+A1350,176,$195,F,Brown & White,Medium,N
+A1351,18,$250,M,White,Small,N
+A1353,57,$250,M,Black & White,Medium,N
+A1354,37,$250,M,Tricolor,Small,N
+A1355,65,$250,F,White w/Black Tail,Medium,N
+A1356,4,$250,M,Black with little white on back toes,Medium,Y
+A1357,10,$250,M,Brown & Black,Large,Y
+A1358,36,$250,M,White,Medium,N
+A1359,0,$195,M,Red,Medium,N
+A1361,59,$195,M,Tan and white,Medium,Y
+A1366,59,$250,F,Tan,Small,N
+A1367,38,$250,M,White,Medium,N
+A1368,29,$250,M,White & Tan,Small,N
+A1371,36,$250,F,Tricolor,Medium,Y
+A1372,0,$250,F,Brindle,Medium,N
+A1373,28,$195,F,Black & White,Medium,N
+A1375,33,$250,F,Brindle,Small,N
+A1376,6,$250,M,Black,Large,N
+A1377,102,$250,M,Brown & White,Large,N
+A1378,16,$250,M,Tricolor,Medium,N
+A1379,10,$250,M,Red & White,Medium,N
+A1380,0,$125,M,Tan,Small,N
+A1382,24,$250,M,Tricolor,Small,Y
+A1386,74,$250,M,Black & White,Medium,Y
+A1388,109,$250,M,brown,Large,N
+A1389,25,$250,M,Black & White,Medium,N
+A1390,40,$250,M,Brown,Small,N
+A1391,71,$195,M,Black,Large,Y
+A1392,36,$250,M,Tan,Small,Y
+A1394,269,$100,M,Black & Tan,Small,Y
+A1395,106,$100,M,Black & Tan,Small,Y
+A1396,28,$195,M,Tan,Small,N
+A1397,37,$250,M,Black & Tan,Medium,N
+A1398,19,$250,M,Tan & White,Medium,N
+A1400,16,$250,F,Tan & White,Medium,N
+A1401,17,$250,M,Black,Small,N
+A1402,75,$195,M,Brown & Tan,Small,N
+A1403,82,$250,M,Tan & white,Large,N
+A1405,9,$250,M,Black & Tan,Small,N
+A1406,137,$100,M,White,Medium,N
+A1407,25,$250,M,Black & Tan,Small,N
+A1408,41,$250,M,Tan & Black,Small,N
+A1409,6,$195,M,Black & Grey,Small,Y
+A1411,13,$250,M,Black & White,Medium,N
+A1413,21,$250,M,White & Brown,Small,N
+A1415,39,$250,F,Black,Medium,N
+A1416,47,$250,F,White & Black,Medium,N
+A1418,109,$250,M,brown,Large,N
+A1419,46,$250,F,Black & Tan,Small,N
+A1420,94,$250,F,Brown,Small,N
+A1421,53,$250,F,Black,Medium,N
+A1423,7,$250,M,Black & Tan,Large,Y
+A1424,3,$250,M,White & Tan,Small,N
+A1425,14,$195,M,Black,Small,Y
+A1426,9,$250,M,Black & White,Medium,N
+A1427,0,$250,F,Black,Medium,N
+A1429,57,$250,M,White & Black,Medium,N
+A1430,64,$250,F,Chocolate & White ,Medium,N
+A1431,0,$250,F,Brindle & White,Medium,N
+A1432,23,$250,M,Tricolor,Small,Y
+A1434,17,$175,F,Black & Tan,Small,N
+A1435,43,$250,F,Brindle,Medium,N
+A1437,101,$195,F,Pitbull,Medium,Y
+A1438,61,$250,F,Tan with black mask,Medium,N
+A1439,17,$250,F,Tricolor,Medium,N
+A1440,64,$250,F,Black & Tan,Small,N
+A1441,31,$250,F,Black & White,Medium,N
+A1442,30,$250,M,Black With White,Medium,N
+A1443,19,$195,M,Tan & White,Medium,Y
+A1445,13,$250,M,Black,Small,N
+A1446,69,$250,M,White with tan,Medium,N
+A1448,43,$250,M,Yellow,Medium,N
+A1449,69,$250,M,Chocolate & White,Medium,N
+A1450,28,$250,M,Black & White,Medium,N
+A1451,72,$250,M,Brown w/whtie tip of tail,Small,N
+A1452,25,$250,M,Fawn,Large,N
+A1454,9,$250,F,Blue Brindle,Large,N
+A1455,12,$250,F,Brown,Large,N
+A1456,12,$195,M,Brown & White,Medium,N
+A1457,19,$250,M,Black,Small,N
+A1458,33,$250,M,Brown & White,Medium,N
+A1459,59,$250,M,Brown & Black,Medium,N
+A1460,0,$195,F,Black & white,Medium,N
+A1461,12,$250,M,Black & White,Medium,N
+A1463,55,$195,M,Black & White,Medium,Y
+A1464,81,$250,M,Tricolor,Small,N
+A1465,11,$250,M,Black & Tan,Small,N
+A1468,30,$250,M,White,Large,Y
+A1469,60,$250,F,Brindle,Medium,N
+A1470,60,$100,F,Brindle,Medium,Y
+A1472,78,$250,M,White with Brindle spot over eyes,Medium,N
+A1474,64,$250,M,,Small,N
+A1475,66,$250,M,Brown,Medium,N
+A1476,20,$195,M,Brown & Tan,Small,N
+A1477,47,$250,M,Brown,Small,N
+A1479,23,$250,F,Brown & Tan,Small,N
+A1480,12,$250,F,Grey & White,Small,N
+A1482,30,$195,F,White,Small,N
+A1483,306,$175,F,White,Small,Y
+A1485,35,$125,M,Brown,Small,N
+A1487,20,$250,M,Brindle & White,Medium,N
+A1489,106,$250,F,Rusty Gold,Medium,N
+A1490,15,$125,F,Silver & Tan,Small,Y
+A1491,0,$250,F,Tan,Medium,N
+A1492,43,$250,F,Tan & Black,Small,N
+A1493,77,$250,F,Tan with Black,Medium,N
+A1494,28,$250,F,Tricolor,Medium,N
+A1496,123,$250,F,Black & Tan,Small,N
+A1497,13,$250,F,Brown,Medium,N
+A1500,10,$250,F,White,Small,U
+A1501,5,$250,M,Black & Brown,Small,N
+A1502,24,$250,M,Brown,Small,Y
+A1503,71,$250,M,Tricolor,Small,Y
+A1504,169,$250,M,Tan,Medium,N
+A1506,26,$250,F,Black & Tan,Small,N
+A1507,58,$250,M,Brown and white,Medium,N
+A1508,37,$250,F,Brindle,Large,Y
+A1510,36,$250,F,Silver & White,Large,N
+A1511,44,$195,F,white with Brown and tan,Medium ,N
+A1512,13,$195,M,Black & White,Small,N
+A1514,79,$250,M,Brindle & White,Medium,N
+A1515,334,$100,F,Gold,Medium,N
+A1517,154,$250,M,Black,Large,N
+A1518,71,$250,M,Black & White,Large,N
+A1520,22,$195,M,Brown,Small,Y
+A1521,65,$250,M,Tricolor,Medium,Y
+A1523,31,$195,M,Red,Small,N
+A1524,43,$250,F,Tan,Medium,N
+A1525,27,$175,F,Black & White,Medium,N
+A1527,25,$250,M,Black,Medium,N
+A1529,59,$100,F,Brindle,Medium,N
+A1530,33,$175,F,White,Small,N
+A1531,23,$250,F,White & Black,Medium,N
+A1532,26,$250,F,Black,Medium,N
+A1534,193,$195,F,White,Medium,N
+A1535,27,$250,M,White & Brown,Medium,N
+A1536,21,$250,M,black tan,Large,Y
+A1538,188,$125,F,Fawn,Small,N
+A1539,21,$250,M,Black & White,Medium,N
+A1540,34,$250,F,Brown & White,Small,N
+A1543,101,$195,M,Blue,Medium,N
+A1544,25,$250,M,Black & White,Medium,N
+A1545,55,$250,M,White with tan patches,Medium,N
+A1547,77,$195,F,Black & White,Small,N
+A1548,18,$250,F,Black ,Small,N
+A1549,27,$250,M,Black & Tan,Medium,N
+A1550,13,$125,M,Tan,Small,N
+A1551,15,$250,M,Tricolor,Medium,N
+A1553,62,$250,M,Black w/Brown highlights,Small,N
+A1554,20,$250,M,Tricolor,Medium,N
+A1555,79,$250,M,Brown,Medium,N
+A1556,11,$250,M,White & Black,Large,N
+A1557,7,$250,M,Tricolor,Medium,N
+A1558,23,$250,M,Brown & Tan,Small,N
+A1559,39,$250,M,Black,Medium,N
+A1560,60,$250,F,Brown with Black,Small,N
+A1564,27,$250,M,Black and Tan,Large,N
+A1566,20,$250,M,Black & Tan,Small,N
+A1567,24,$250,M,Spotted Merle,Medium,Y
+A1568,6,$250,M,Black & White,Medium,N
+A1569,44,$250,M,White,Large,N
+A1570,15,$195,M,Black & Brown,Medium,Y
+A1572,93,$195,M,Blue and white,Medium,N
+A1573,0,$250,M,Black,Medium,N
+A1574,37,$250,M,Black & White Brindle,Medium,N
+A1575,75,$250,M,Grey,Small,N
+A1577,102,$250,M,Tricolor,Medium,N
+A1578,64,$250,M,White & Brown,Large,N
+A1579,36,$250,F,Black & White,Medium,Y
+A1580,38,$250,F,Tricolor,Medium,N
+A1581,24,$250,M,Black,Medium,N
+A1582,55,$250,F,Black & Brown,Medium,N
+A1584,24,$250,F,Tan & White,Large,N
+A1585,46,$250,F,White & Black,Medium,N
+A1587,91,$250,M,white and black,Medium,N
+A1588,210,$250,F,Black & White,Medium,Y
+A1589,19,$250,F,Black & White,Medium,Y
+A1590,29,$250,F,Tri,Small,Y
+A1591,103,$195,F,Tan & White,Medium,N
+A1592,310,$195,F,Tan & White,Medium,Y
+A1593,16,$250,F,Brown & White,Small,Y
+A1594,27,$250,M,Black,Medium,N
+A1595,0,$250,F,Black & Tan,Small,N
+A1596,74,$250,M,Black,Medium,N
+A1598,18,$250,M,Tricolor,Medium,Y
+A1599,148,$175,M,Brown,Small,N
+A1600,53,$195,M,Chocolate & White,Medium,Y
+A1601,84,$250,M,Red,Large,N
+A1602,20,$250,M,Red & White,Medium,N
+A1603,14,$250,M,White,Large,N
+A1604,8,$250,M,White & Brown,Medium,N
+A1605,12,$250,F,Trocolor,Medium,N
+A1607,71,$250,F,Tricolor,Medium,N
+A1608,19,$250,M,Black & Brown,Medium,N
+A1609,17,$250,M,Black ,Small,N
+A1610,27,$250,M,Black & Tan,Medium,N
+A1611,39,$250,F,Black,Medium,N
+A1612,74,$250,F,Brown Brindle,Small,N
+A1613,84,$250,F,Black,Medium,Y
+A1614,12,$250,F,"Tan, white, and black",Medium,N
+A1615,24,$250,M,Black & White,Medium,N
+A1616,11,$195,F,Tan,Small,N
+A1617,0,$250,F,Black & Grey,Small,N
+A1618,47,$100,F,Black & white,Large,N
+A1619,0,$250,F,Black & White,Small,N
+A1621,129,$195,M,White & Brown,Large,Y
+A1623,66,$250,F,Brown,Medium,N
+A1624,83,$195,F,Tan,Medium,N
+A1625,99,$250,F,Black/Brown/White,Small,N
+A1626,8,$250,F,Brown & White,Small,N
+A1628,71,$125,M,Black & White,Small,N
+A1630,57,$195,F,Tan & White,Medium,N
+A1633,106,$250,M,Black,Medium,N
+A1634,80,$250,M,Black & Tan,Medium,N
+A1636,9,$250,M,Brown,Medium,N
+A1637,12,$250,M,Red,Small,Y
+A1638,12,$250,M,Tan & White,Medium,N
+A1640,205,$250,M,Black & Brown,Large,N
+A1641,76,$250,M,Black & White,Medium,N
+A1642,10,$250,M,White & Tan,X Large,N
+A1644,98,$195,M,Brown & White,Medium,Y
+A1646,41,$250,F,Black & White,Small,N
+A1648,29,$250,F,Brindle,Medium,N
+A1649,108,$250,F,Tricolor,Medium,N
+A1650,51,$250,F,White & Brown,Small,N
+A1651,18,$250,F,Lab Mix,Medium,N
+A1653,117,$125,F,Black & White,Small,N
+A1654,28,$250,F,Brindle,Medium,N
+A1655,2,$250,F,Brown ,Medium,Y
+A1656,17,$250,F,Grey/Black,Small,U
+A1657,74,$250,F,Tan & Black,Small,N
+A1658,14,$250,F,Brown,Small,N
+A1659,12,$250,M,Cream w/Brown,Small,N
+A1660,15,$250,M,White & Tan,Small,N
+A1661,31,$250,M,Brown & White,Medium,N
+A1662,14,$250,F,Black,Medium,N
+A1663,74,$250,F,Black & White,Medium,N
+A1664,15,$250,F,BLack Brindle,Medium,N
+A1665,216,$100,F,Blue  ,Medium,Y
+A1667,18,$195,M,Brown & White,Large,N
+A1668,74,$250,M,Tan,Small,N
+A1669,5,$250,M,Black,Small,N
+A1670,85,$250,M,Black/Brown/White,Small,N
+A1671,69,$250,F,Black/Brown/White,Small,N
+A1672,24,$250,F,Tan,Small,N
+A1673,41,$175,F,Tan,Small,N
+A1674,7,$250,M,Black & White,Small,N
+A1675,812,$195,M,Brindle and white,Large,Y
+A1676,30,$125,M,Tricolor,Medium,N
+A1678,75,$195,F,Blue & White,Medium,N
+A1681,7,$195,M,White & Black,Small,N
+A1684,25,$250,F,Brown & White,Medium,N
+A1685,19,$250,M,Black & Tan,Medium,N
+A1686,97,$250,M,Black,Medium,Y
+A1687,67,$250,M,Brown,Medium,N
+A1688,23,$250,M,Brown ,Medium,Y
+A1689,17,$250,M,Yellow,Medium,N
+A1690,414,$250,F,brown,Large,Y
+A1693,0,$250,F ,Brindle,Small,N
+A1694,41,$250,F,Brown,Small,N
+A1695,108,$250,M,Black & White,Small,N
+A1696,11,$195,F,Blue,Medium,N
+A1697,16,$250,M,Black & Tan,Medium,N
+A1699,35,$250,F,Brown & White,Medium,N
+A1700,25,$250,M,Tan & White,Small,N
+A1701,389,$100,M,Tan & White,Large,N
+A1702,3,$100,M,Tan & White,Large,N
+A1703,40,$250,M,White & Black,Large,N
+A1704,53,$250,M,Chocolate & White ,Medium,N
+A1705,7,$250,F,White,Small,Y
+A1707,107,$250,F,Brindle & White,Medium,N
+A1708,16,$250,F,Brown & White,Small,N
+A1709,64,$175,F,Brown & White,Medium,N
+A1710,21,$250,F,Tan,Medium,N
+A1711,22,$250,F,white,Medium,N
+A1712,62,$250,F,White & Black,Medium,N
+A1713,23,$250,M,Black & Tan,Medium,N
+A1714,24,$250,M,black & tan,Small,N
+A1715,25,$250,M,Golden/Chestnut,Small,N
+A1716,65,$195,M,Black & White,Medium,Y
+A1717,224,$175,M,Black & White,Medium,Y
+A1718,79,$250,F,Black & White,Medium,Y
+A1719,13,$250,F,Golden,Large,N
+A1721,0,$125,F,White,Large,Y
+A1722,8,$250,F,White & Tan,Medium,N
+A1723,147,$250,F,Black & Tan,Large,N
+A1724,14,$250,F,Tricolor,Small,N
+A1725,64,$125,F,Tan,Small,N
+A1726,77,$250,M,Black & White,Medium,N
+A1727,14,$250,F,Chocolate & White ,Medium,N
+A1728,20,$195,M,Blue and white,Large,N
+A1730,122,$195,M,Black,Medium,Y
+A1731,0,$195,F,Black,Small,N
+A1732,47,$250,F,Black & Tan,Medium,N
+A1733,7,$250,F,Black & White,Large,N
+A1734,36,$250,F,Black & White,Medium,N
+A1735,4,$250,F,Chocolate,Small,2/18/15
+A1736,17,$250,F,Tan and white,Small,N
+A1739,21,$250,M,Tri-Color,Medium,N
+A1740,61,$250,M,Black & White,Medium,N
+A1742,184,$250,F,Chocolate & White,Medium,N
+A1743,60,$250,M,Black & Tan,Small,N
+A1744,28,$195,M,Black,Large,Y
+A1745,24,$175,M,Brown,Small,N
+A1746,65,$250,M,White & Black,Medium,N
+A1747,28,$250,M,Black & Tan,Small,Y
+A1748,269,$100,M,Red,Small,Y
+A1749,105,$100,M,Red,Small,Y
+A1750,7,$250,M,Tan,Small,N
+A1751,28,$250,M,Brown,Medium,N
+A1752,14,$250,M,Brown & Black,Medium,N
+A1754,35,$250,M,Black,Large,N
+A1756,31,$250,M,Black & White,Medium,N
+A1757,16,$250,M,Tan & White,Large,N
+A1758,10,$250,M,Black,Medium,Y
+A1759,11,$250,M,Black & Tan,Medium,N
+A1760,235,$250,M,White & Brown,Medium,N
+A1761,66,$250,M,White & Brown,Medium,N
+A1762,71,$250,M,Brindle,Large,N
+A1763,7,$250,M,Tan,X Large,Y
+A1765,49,$250,M,Black,Medium,N
+A1768,46,$250,M,Tan with white,Medium,N
+A1769,20,$250,M,White and some grayish black,Large,N
+A1770,42,$195,M,White & Blue,Medium,N
+A1772,9,$250,M,Black & Tan,Large,N
+A1773,65,$250,F,White with Black head,Medium,N
+A1774,22,$250,M,Brown & Tan,Small,Y
+A1775,111,$250,M,Black & White,Medium,N
+A1776,20,$250,M,Brindle,Medium,N
+A1778,71,$250,F,Blue/Grey,Medium,N
+A1779,59,$250,M,Brown with Black,Medium,N
+A1780,31,$250,M,Black & Tan,Medium,N
+A1781,25,$250,M,Black & White,Small,N
+A1782,82,$250,F,Black & White,Medium,N
+A1783,69,$250,M,Brindle & White,Medium,N
+A1785,15,$250,F,Black & White,Small,N
+A1788,11,$195,F,White,Small,N
+A1789,74,$250,F,White,Medium,N
+A1790,7,$250,F,White & Black,Small,N
+A1791,0,$250,F,White with Brown Spots,Medium,N
+A1793,38,$250,F,Brown & White,Medium,Y
+A1794,83,$250,F,Tricolor,Small,N
+A1795,41,$250,F,Black & White,Medium,N
+A1796,77,$195,F,Brindle & whilte,Medium,N
+A1798,11,$195,M,Black & White,Small,N
+A1799,23,$250,M,Tan & White,Small,N
+A1801,66,$195,F,Brindle & White,Medium,N
+A1803,39,$250,F,White,Medium,N
+A1804,40,$195,F,White & Tan,Small,N
+A1806,21,$250,M,White & Tan,Medium,N
+A1808,19,$250,M,Tan,Medium,N
+A1809,78,$250,M,Tan with white,Medium,N
+A1811,25,$250,M,White & Brown,Small,N
+A1812,39,$175,M,Black & tan,Small,N
+A1813,62,$195,M,Tan,Medium,N
+A1814,30,$250,M,Red  ,Medium,N
+A1815,74,$250,M,Black & White,Large,N
+A1816,55,$250,M,"Brown, black, & white",Medium,N
+A1817,0,$250,M,Dark Brindle,Small,N
+A1818,13,$195,F,Black,Medium,Y
+A1819,25,$250,F,BLack & Tan,Medium,N
+A1820,97,$250,F,black/white,Medium,Y
+A1821,1,$100,F,Brown,Medium,Y
+A1822,0,$195,M,Blue & white,Medium,Y
+A1826,86,$250,F,Brindle,Medium,Y
+A1828,6,$250,M,Brown,Medium,N
+A1830,0,$250,M,Tan & Black,Medium,N
+A1833,28,$250,M,Brown & tan,Medium,N
+A1834,26,$250,M,Black,Medium,N
+A1835,36,$195,F,Grey  ,Medium,N
+A1836,16,$250,M,Black & White,Medium,N
+A1837,41,$250,F,Tan,Small,N
+A1839,83,$100,F,White & Brown,Large,Y
+A1840,14,$250,F,Light Brindle,Small,N
+A1842,11,$250,F,Black & White,Medium,N
+A1843,78,$250,F,Black,Small,N
+A1844,18,$250,F,Black & Tan,Large,N
+A1849,4,$250,M,Black & Tan,Small,Y
+A1851,85,$250,M,Brindle & White,Medium,N
+A1852,12,$250,M,Grey & White,Small,N
+A1853,21,$250,M,Tan & White,Small,N
+A1855,47,$250,M,Brindle & White,Medium,Y
+A1858,193,$100,M,Tan,Large,Y
+A1859,41,$250,M,Tan,Small,N
+A1860,34,$250,M,Black,Large,N
+A1861,27,$250,M,Black,Medium,N
+A1862,2,$250,M,Black & white,Small,N
+A1863,25,$250,M,Fawn,Large,N
+A1864,103,$250,M,Gold,Small,N
+A1867,33,$195,F,White & Black,Small,N
+A1869,32,$175,M,Brown & Black,Small,N
+A1870,16,$195,M,Red,Small ,Y
+A1873,31,$250,F,Fawn,Medium,N
+A1874,14,$250,M,Fawn w/Brown,Small,N
+A1875,0,$250,M,Brown,Small,N
+A1876,16,$250,M,Brindle & White,Medium,N
+A1877,10,$250,M,Tan,Medium,N
+A1878,19,$195,M,Black & White,Small,N
+A1879,72,$250,F,Brown Brindle,Medium,N
+A1880,10,$250,F,White & Brown,Medium,N
+A1881,14,$250,F,Brown,Small,N
+A1882,26,$195,F,Tricolor,Small,Y
+A1883,396,$100,M,"Black, White, Salt & Pepper",Medium,N
+A1884,13,$250,F,Black & White,Medium,N
+A1885,24,$250,F,White & Black,Small,N
+A1887,45,$250,M,Black & White,Medium,N
+A1889,11,$250,M,Tricolor,Medium,N
+A1890,19,$250,M,Dark Brindle,Medium,N
+A1891,7,$250,F,Tan & Brown,Medium,N
+A1892,124,$175,F,White & Black,Large,Y
+A1893,20,$250,F,Tricolor,Medium,N
+A1894,8,$195,M,Black & White,Large,Y
+A1895,69,$250,M,Brown/white,Medium,N
+A1896,5,$125,F,Red,Medium,Y
+A1898,765,$125,F,Fawn,Large,Y
+A1901,10,$250,F,Brown & Tan,Small,N
+A1902,160,$250,F,Tricolor,Medium,N
+A1904,33,$250,M,Black,Medium,N
+A1906,11,$250,M,Black,Medium,N
+A1907,257,$100,M,Black & white,Medium,N
+A1908,56,$250,F,Red & White,Medium,N
+A1910,150,$125,F,"White, Sable and Black",Small,Y
+A1912,14,$250,F,White & Brown,Small,N
+A1913,82,$250,F,Red  ,Medium,N
+A1915,57,$250,M,White/Brown,Small,N
+A1916,11,$195,M,Brown,Small,N
+A1917,77,$250,M,Black,Large,N
+A1918,8,$250,M,Brown,Small,Y
+A1919,16,$250,M,Black and grey,Medium,N
+A1920,69,$250,F,Tricolor,Medium,N
+A1921,10,$175,F,Black & White,Small,N
+A1922,17,$250,M,Black & White,Medium,N
+A1923,31,$250,M,"Black, grey, & white",Medium,N
+A1924,60,$250,F,"Black & Tan, long hair",Small,N
+A1925,24,$250,F,Black & White,Medium,N
+A1927,25,$250,M,Tan,Medium,N
+A1928,7,$250,M,Brown,Small,N
+A1931,83,$250,M,Tan,Medium,N
+A1932,16,$250,F,Brindle,Medium,N
+A1933,20,$250,M,Black,Large,N
+A1934,44,$250,M,Black & White,Medium,N
+A1935,6,$250,M,Black & White,Medium,N
+A1936,28,$250,M,Black,Large,N
+A1937,71,$250,F,Brown & White,Medium,N
+A1938,26,$250,M,Black/Brindle,Medium,N
+A1939,33,$250,M,Tan & Black,Medium,N
+A1940,67,$250,M,Black & Tan,Medium,N
+A1941,78,$250,M,White,Small,N
+A1942,18,$250,F,Black & Tan,Large,N
+A1943,22,$250,F,Tan,Medium,N
+A1944,44,$250,F,White & Tan,Large,N
+A1945,31,$250,M,Black & White,Small,N
+A1946,14,$175,F,Tan,Small,N
+A1947,14,$195,M,Brown,Small,N
+A1948,28,$250,F,Black,Medium,N
+A1949,73,$250,F,Black & White,Medium,N
+A1950,13,$195,F,Red  ,Small,N
+A1951,14,$250,F,Blonde,Small,N
+A1952,6,$250,M,Brown & White,Small,N
+A1953,26,$250,F,Black & White,Medium,N
+A1954,20,$250,M,Tricolor,Medium,N
+A1955,87,$100,F,Black,Small,N
+A1958,69,$250,M,Brown & White,Medium,N
+A1960,12,$250,M,Black,Medium,N
+A1961,57,$250,F,Brown,Medium,N
+A1962,67,$250,M,Brown Brindle,Medium,N
+A1963,26,$250,F,Black,Large,N
+A1964,58,$250,F,Black,Medium,N
+A1966,16,$250,F,Brown,Medium,N
+A1967,20,$250,F,Black,Large,N
+A1968,44,$250,F,Brindle & White,Medium,N
+A1969,6,$175,F,Golden,Medium,Y
+A1970,93,$250,F,Black & White,Medium,N
+A1972,21,$195,M,Blue & White,Medium,N
+A1975,149,$250,M,Tricolor,Small,Y
+A1976,253,$250,F,White,Medium,Y
+A1979,66,$250,M,Black & White,Medium,N
+A1980,84,$250,M,Black with White Paws,Medium,N
+A1981,32,$250,F,tan and black,Medium,N
+A1982,41,$250,M,White & Tan,Large,Y
+A1984,55,$195,M,Blue,Medium,N
+A1985,25,$250,M,Yellow,Medium,N
+A1986,11,$250,F,Brown/Red,Medium,N
+A1987,35,$250,F,Tan & White,Medium,N
+A1989,12,$195,F,Brown,Medium,Y
+A1991,26,$250,F,Tricolor,Medium,N
+A1992,28,$195,M,Blue & White,Large,N
+A1993,0,$125,M,Blue & White,Large,N
+A1995,38,$250,M,Tricolor,Medium,N
+A1996,73,$250,M,Black & White,Medium,N
+A1997,30,$250,F,Tan,Small,N
+A1999,54,$250,F,Tricolor,Medium,N
+A2000,39,$195,F,Black & White,Medium,Y
+A2002,36,$250,F,Sable,Medium,Y
+A2003,9,$250,M,Black,Medium,N
+A2006,32,$250,F,Tan,Small,N
+A2007,53,$100,F,Tricolor,Medium,N
+A2010,17,$250,F,Tan & Black,Small,Y
+A2011,100,$250,F,White with Brown/Black,Small,N
+A2012,1,$195,F,Black & white,Large,Y
+A2013,14,$250,F,Brindle,Large,Y
+A2015,29,$250,F,White,Small,N
+A2017,96,$250,M,Black & White,Small,N
+A2018,30,$250,M,White & Red,Medium,N
+A2019,37,$250,M,White & Black,Medium,N
+A2020,16,$250,F,Tan & Black,Small,N
+A2021,15,$250,M,Black,Medium,N
+A2022,31,$250,M,Black,Medium,N
+A2023,95,$250,F,Tan & WHite,Small,N
+A2024,248,$195,F,White,Small,N
+A2025,102,$195,F,White,Small,N
+A2026,19,$250,M,Brown,Medium,N
+A2028,9,$250,M,Yellow,Large,Y
+A2029,0,$250,M,Blue & White,Medium,N
+A2030,33,$250,F,Black,Large,Y
+A2031,17,$250,F,Tan,Medium,N
+A2032,49,$250,M,Fawn,Small,N
+A2033,15,$250,M,Fawn,Small,N
+A2034,33,$195,F,Brown,Small,N
+A2035,29,$195,F,Brown,Small,N
+A2036,7,$250,M,Black,Medium,N
+A2037,65,$250,M,Brown & White,Medium,N
+A2040,45,$100,M,Black,Medium,N
+A2042,22,$250,F,Brown,Small,U
+A2043,67,$250,M,White Brindle,Medium,N
+A2044,121,$100,M,White & Brown,Small,N
+A2045,71,$100,M,White & Brown,Small,N
+A2046,58,$250,F,Yellow,Medium,N
+A2047,81,$250,F,Tan,Medium,N
+A2050,7,$250,f,Tan,Medium,N
+A2051,7,$250,F,Black & White,Medium,N
+A2052,14,$250,F,Black,Medium,N
+A2053,9,$195,F,White & Brown,Medium,Y
+A2054,64,$250,F,White w/Brown Tail,Medium,N
+A2056,84,$250,M,Black & White,Medium,N
+A2057,26,$250,M,Brindle,Large,N
+A2059,4,$195,F,Yellow,Medium,N
+A2061,14,$125,M,Black & White,Small,N
+A2062,50,$250,M,Cream,Medium,N
+A2063,35,$250,M,White & Tan,Small,N
+A2064,13,$250,M,Yellow,Large,N
+A2066,56,$250,M,Blue/Grey,Medium,N
+A2067,68,$250,F,Tan,Medium,N
+A2068,20,$250,F,Brown & White,Medium,Y
+A2069,6,$250,F,Yellow,Medium,N
+A2071,66,$250,M,Black & White,Medium,N
+A2072,94,$250,F,Brown & White,Medium,N
+A2073,17,$250,M,Tricolor,Medium,N
+A2074,28,$250,M,Black,Medium,N
+A2075,3,$250,M,Brindle,Medium,Y
+A2076,12,$250,M,Brown,Medium,N
+A2078,11,$250,M,Black & White,Small,N
+A2080,8,$250,M,Grey & White,Large,N
+A2082,8,$250,M,Tricolor,Medium,N
+A2083,12,$250,M,White,Small,N
+A2084,27,$250,M,Black & Tan,Medium,N
+A2085,36,$250,M,White & Tan,Small,N
+A2086,10,$250,M,Tricolor,Medium,N
+A2087,40,$100,F,Black,Medium,Y
+A2088,13,$195,F,Grey & White,Medium,Y
+A2091,36,$250,M,Black,Small,N
+A2092,66,$125,M,Black & Tan,Small,Y
+A2095,110,$195,F,White,Small,N
+A2096,26,$250,F,Tan,Medium,U
+A2097,10,$250,F,Black & Tan,Large,Y
+A2099,76,$250,M,Black & Tan,Medium,N
+A2100,14,$250,F,Black,Medium,
+A2101,63,$195,F,Blue & White,Medium,N
+A2102,323,$250,F,Black,Medium,N
+A2103,27,$250,F,Black,Medium,N
+A2104,40,$250,F,Black & Brown,Medium,N
+A2106,138,$100,M,Brindle,Medium,N
+A2107,17,$250,F,Brown,Medium,Y
+A2110,15,$250,F,Brown & White,Medium,N
+A2111,66,$250,F,Black,Medium,N
+A2113,27,$250,F,White & Tan,Small,N
+A2114,10,$250,F,Brown & White,Medium,N
+A2119,68,$250,F,Tricolor,Medium,N
+A2120,20,$195,F,Tan & White,Small,N
+A2123,29,$250,F,White & Tan,Small,N
+A2124,14,$250,M,Black & Grey,Medium,N
+A2125,58,$250,F,White w/Tan Mask,Medium,N
+A2127,106,$195,F,Brown & White,Medium,Y
+A2128,13,$250,M,Brown,Large,N
+A2129,16,$250,M,Brown,Medium,N
+A2131,54,$250,M,Yellow,Medium,N
+A2132,18,$250,M,White,Small,N
+A2133,12,$250,F,Black & White,Medium,N
+A2134,63,$250,F,Black & White,Medium,N
+A2135,74,$250,M,White,Medium,N
+A2136,29,$250,M,Black & White,Medium,N
+A2138,18,$250,M,Brown & Black,Medium,N
+A2139,40,$250,M,White & Brown,Medium,N
+A2140,70,$250,M,Black,Medium,N
+A2142,47,$250,F,Brindle & White,Medium,N
+A2143,52,$250,F,Brown,Medium,N
+A2145,35,$250,F,Black,Medium,N
+A2146,28,$250,F,Brown & White,Medium,N
+A2147,99,$250,F,Brown & White,Medium,N
+A2148,12,$250,F,Tan,Small,N
+A2150,220,$195,F,Tri color,Large,Y
+A2152,227,$250,M,black & white,Medium,N
+A2153,41,$250,F,White & Black,Medium,N
+A2156,23,$250,M,Brindle & White,Medium,N
+A2160,8,$250,F,Brown,Medium,Y
+A2161,71,$250,F,Black,Medium,N
+A2162,75,$195,F,Brown,Medium,Y
+A2164,70,$250,M,Black,Medium,N
+A2165,7,$250,M,Brown,Medium,N
+A2166,78,$250,M,Brown & White,Medium,N
+A2167,7,$250,M,Brown,Small,N
+A2168,24,$250,M,Tan & White,Small,N
+A2169,20,$250,M,White,Small,N
+A2170,17,$250,M,Red,Large,N
+A2171,23,$250,M,Tricolor,Small,N
+A2172,33,$250,M,White & Red,Medium,Y
+A2175,160,$250,M,Tan,Small,N
+A2176,48,$250,M,White & Black,Medium,N
+A2179,68,$250,M,Brown,Medium,N
+A2180,10,$250,M,White,Small,N
+A2182,106,$250,M,Black and Brown,Medium ,N
+A2183,88,$195,M,Blue & White,Medium,N
+A2184,0,$250,M,White,Medium,N
+A2186,4,$195,M,Blue & White,Medium,Y
+A2187,19,$250,F,Brindle,Medium,N
+A2188,127,$175,F,Brindle,Medium,Y
+A2189,109,$250,F,Tri Color,Medium,N
+A2190,27,$250,F,Tricolor,Medium,N
+A2193,22,$250,F,Tan,Medium,N
+A2194,8,$250,F,Black & tan,Medium,N
+A2196,28,$250,F,Tan,Medium,N
+A2197,10,$195,F,Black & White,Medium,Y
+A2198,51,$250,M,Black,Medium,N
+A2199,43,$250,F,Black,Medium,N
+A2201,10,$250,M,Bridle,Medium,N
+A2202,38,$250,M,Tan,Small,N
+A2203,21,$250,F,Red,Small,N
+A2204,47,$195,F,Tricolor,Small,Y
+A2205,88,$250,F,Black & Brown,Medium,N
+A2207,21,$250,F,White & Grey,Small,N
+A2208,92,$125,F,Tricolor,Medium,Y
+A2209,226,$250,F,Black,Large,N
+A2210,82,$250,F,Black,Medium,N
+A2211,28,$250,F,Black & Brown,Medium,N
+A2214,58,$250,F,White with black spots,Medium,N
+A2216,33,$250,F,Black,Medium,N
+A2218,25,$250,F,Brown & White,Medium,N
+A2221,38,$250,M,Brindle,Large,N
+A2222,32,$195,M,Tan & White,Medium,N
+A2223,25,$195,M,White & Tan,Large,Y
+A2225,105,$250,F,Black with White,Medium,N
+A2226,14,$250,F,Black with White,Medium,N
+A2227,37,$250,M,Tan/Black & White,Medium,N
+A2229,17,$250,M,Tan,Small,N
+A2231,30,$250,F,Black & tan,Medium,N
+A2233,23,$250,F,Black & White,Medium,N
+A2234,14,$250,F,Black/Brindle/White,Large,N
+A2235,0,$250,F,Black & Tan,Medium,N
+A2237,28,$250,F,White & Tan,Small,N
+A2240,52,$250,M,Black & White,Medium,N
+A2241,23,$250,M,Tan & Black,Small,N
+A2242,72,$250,M,Black & Tan,Medium,N
+A2244,396,$250,F,tan white,Medium,N
+A2245,31,$250,F,Tan(liver) and white,Medium,N
+A2246,24,$250,F,Black & Tan,Small,N
+A2247,48,$250,F,Tan,Medium,N
+A2248,30,$250,F,Brindle,Medium,N
+A2249,0,$250,F,Brown,Medium,N
+A2253,32,$195,M,Red & white,Medium,N
+A2255,10,$125,F,Black,Small,N
+A2256,4,$250,F,Black & Brown,Medium,N
+A2257,383,$250,F,Black & Tan,Medium,N
+A2259,6,$250,F,Brown,Medium,N
+A2261,71,$250,F,Chocolate,Medium,N
+A2262,79,$250,F,"Tan, Scruffty",Medium,N
+A2264,15,$250,F,Brown,Small,Y
+A2265,25,$250,F,Black & Tan,Medium,N
+A2266,5,$250,F,Silver & White,Small,Y
+A2267,15,$250,F,White & Black,Medium,N
+A2268,24,$250,F,Brown & Black,Small,N
+A2269,64,$250,M,Black,Medium,N
+A2271,26,$250,F,Black  ,Medium,N
+A2272,42,$250,F,Tan,Small,N
+A2273,69,$250,F,Black,Medium,N
+A2275,137,$250,F,Tan,Medium,Y
+A2276,24,$250,F,,Medium,N
+A2277,110,$250,M,Yellow,Medium,N
+A2279,24,$250,F,white,Medium,N
+A2280,77,$250,M,Black,Medium,N
+A2282,34,$250,M,Black & White,Medium,N
+A2283,8,$250,M,Grey & White,Medium,Y
+A2284,24,$250,M,Yellow,Large,Y
+A2285,80,$250,M,Black & Tan,Medium,N
+A2286,6,$195,M,White,Small,N
+A2287,17,$250,M,Black & White,Medium,N
+A2289,51,$250,F,Black,Medium,N
+A2291,7,$250,F,Tan & White,Small,N
+A2292,0,$250,F,Tricolor,Small,N
+A2293,51,$250,F,Black,Medium,N
+A2295,142,$250,F,Black,Medium,N
+A2296,0,$175,F,White & Tan,Small,N
+A2298,8,$250,F,Tan & White,Small,N
+A2299,44,$250,M,Brown,Small,N
+A2300,67,$125,M,Blue,Medium,Y
+A2301,17,$250,F,Black & Tan,Small,N
+A2302,51,$250,F,Black & Tan,Large,N
+A2304,34,$250,M,Black & brown,Medium,N
+A2306,35,$250,M,Tricolor,Medium,N
+A2308,0,$250,F,Black & White,Medium,N
+A2309,143,$100,M,Black,Large,N
+A2310,44,$100,M,Black,Large,N
+A2311,75,$250,F,Black,Medium,N
+A2312,0,$250,F,Black & Brown,Medium,N
+A2313,17,$250,F,Black & White,Medium,N
+A2314,0,$195,F,Tricolor,Small,Y
+A2316,210,$250,F,White & Brown,Large,N
+A2318,31,$250,F,Brown Brindle & White,Small,U
+A2319,0,$125,F,Tricolor,Medium,Y
+A2320,1,$250,F,Red,Medium,Y
+A2321,48,$250,F,White & Tan,Medium,Y
+A2322,62,$195,M,Black & White,Medium,Y
+A2323,59,$100,M,Brown,Large,N
+A2325,29,$250,M,Brown,Medium,N
+A2326,69,$250,M,Brown,Medium,N
+A2328,53,$250,F,Tan,Large,N
+A2329,24,$250,F,Brindle & White,Medium,N
+A2330,64,$250,F,Black & White,Medium,N
+A2331,18,$250,F,Blonde(yellow),Small,N
+A2332,56,$250,F,Black,Medium,N
+A2333,11,$250,F,Black,Large,Y
+A2334,23,$250,F,Black,Large,N
+A2335,4,$250,F,Black & White,Medium,Y
+A2337,0,$250,F,Brown & White,Medium,N
+A2338,47,$250,F,Grey & Black,Small,N
+A2339,31,$250,F,Yellow,Small,N
+A2340,382,$250,F,Black,Medium,Y
+A2341,80,$250,F,Black,Medium,Y
+A2342,155,$250,F,black white,Small,N
+A2343,29,$250,F,Tan  ,Medium,N
+A2344,69,$250,F,Tricolor,Small,N
+A2345,57,$250,M,Black & White,Medium,N
+A2348,10,$250,M,Tan,Medium,Y
+A2349,10,$250,F,Black & Brown,Medium,N
+A2352,71,$250,F,Black,Medium,N
+A2353,41,$250,F,Brown,Small,N
+A2354,14,$250,F,Brown and white,Small,N
+A2355,64,$250,F,Black,Medium,N
+A2356,224,$195,F,Tan & White,Medium,N
+A2357,182,$100,F,White & Tan,Medium,N
+A2360,11,$250,F,Brown & Red,Small,N
+A2361,1,$250,F,Crem (Lemon) w/white,Small,N
+A2362,65,$250,M,Black/White,Medium,N
+A2363,46,$195,M,Blue & White,Medium,N
+A2364,19,$250,M,Tan with Black Mask,Medium,N
+A2365,65,$250,F,Brown,Medium,N
+A2366,27,$195,M,Red,Small,Y
+A2368,22,$250,F,Brindle,Medium,N
+A2369,63,$250,M,Black,Medium,N
+A2370,24,$250,F,Brown,Large,N
+A2372,12,$250,F,Red,Small,Y
+A2375,48,$195,F,Merle,Medium,Y
+A2377,32,$250,F,Brown,Medium,Y
+A2378,22,$250,F,Yellow,Medium,N
+A2379,29,$195,M,Blue & White,Medium,N
+A2381,65,$250,F,Black w/White Chest,Medium,N
+A2382,12,$175,F,Black,Small,Y
+A2383,5,$250,F,Yellow,Medium,N
+A2384,62,$250,F,Brown & Black,Medium,N
+A2385,32,$250,F,Brown & Red,Small,N
+A2386,28,$250,F,Black,Medium,N
+A2387,21,$250,F,Brown,Medium,N
+A2388,41,$125,F,Black & White,Medium,Y
+A2390,146,$250,F,Brown & White,Medium,N
+A2392,66,$250,F,Tricolor,Small,U
+A2393,62,$250,M,Black & White,Small,N
+A2395,7,$250,F,Tan & White,Small,N
+A2396,30,$250,F,Tan & White,Medium,N
+A2397,40,$175,M,Blue & White,Medium,N
+A2398,9,$250,M,Black & White,Medium,N
+A2402,10,$250,F,Black,Medium,N
+A2403,14,$250,F,White & Red,Small,N
+A2404,16,$195,M,White,Small,N
+A2405,255,$195,F,Tan and white,Medium,N
+A2406,89,$100,F,Black & White,Large,Y
+A2407,43,$250,F,Black & White,Medium,N
+A2408,0,$250,F,Black & White,Medium,N
+A2410,24,$250,F,Black,Medium,Y
+A2411,33,$195,M,Brown & White,Medium,N
+A2413,14,$250,M,Brindle,Medium,N
+A2414,32,$250,F,Black & White,Large,N
+A2415,35,$250,F,Brown,Medium,N
+A2417,14,$250,F,Tricolor,Medium,N
+A2420,40,$250,M,Brown & Black,Medium,N
+A2422,157,$100,M,White & Black,Small,N
+A2423,47,$250,F,Black & White,Medium,N
+A2424,56,$250,F,Brown,Medium,N
+A2428,24,$250,M,Black,Medium,N
+A2429,19,$250,M,Black & Whtie,Medium,N
+A2430,46,$250,F,Chocolate,Medium,N
+A2431,69,$250,M,Brown,Small,N
+A2432,32,$250,F,Black & White,Medium,N
+A2433,30,$195,F,Brown & Blonde,Small,Y
+A2434,0,$250,F,Tricolor,Small,N
+A2437,61,$250,M,Black,Medium,N
+A2439,81,$250,F,black and tan,,
+A2440,152,$195,F,Black & White,Small,N
+A2441,24,$195,F,Black & White,Medium,Y
+A2442,91,$250,M,Black,Small,N
+A2443,31,$195,M,Blue & White,,N
+A2444,28,$250,F,White,Medium,Y
+A2445,113,$50,F,Black,Medium,Y
+A2446,15,$250,F,White,Medium,N
+A2447,11,$250,F,Black & Tan,Medium,N
+A2448,21,$250,F,Brindle,Medium,N
+A2449,53,$250,F,Black,Medium,N
+A2450,10,$250,F,Tricolor,Medium,N
+A2452,22,$250,F,Tan,Small,N
+A2453,67,$125,M,Tan,Small,Y
+A2454,26,$175,M,Tan & White,Small,Y
+A2455,24,$250,M,White & Brown,Large,N
+A2457,54,$250,M,Blue Merle,Large,N
+A2458,47,$250,M,Blue Merle,Large,N
+A2459,115,$175,M,Tan,Small,Y
+A2460,13,$250,F,Brown & White,Medium,N
+A2461,70,$250,F,Tan & White on chest,Medium,N
+A2462,34,$195,M,White,Medium,Y
+A2464,81,$250,F,tan and white,,
+A2465,6,$250,F,Red,Large,N
+A2466,238,$100,M,Black & White,Medium,N
+A2468,49,$250,F,Black & White,Small,N
+A2469,48,$195,F,Black & White,Medium,Y
+A2470,34,$250,M,Tan & White,Medium,N
+A2471,69,$250,F,Tricolor,Small,N
+A2472,67,$250,M,White,Medium,N
+A2473,49,$250,F,Black & White,Medium,N
+A2474,35,$250,M,Black & Tan,Medium,N
+A2475,8,$195,M,Black & White,Medium,N
+A2476,115,$250,M,Tan,Small,N
+A2478,29,$250,F,Brown & Black,Medium,N
+A2479,34,$250,M,Black,Medium,N
+A2480,0,$125,M,Black &White,Large,N
+A2481,33,$250,M,Brwon,Small,N
+A2482,5,$250,M,Tan,Medium,Y
+A2484,27,$150,M,Tan,Medium,Y
+A2485,288,$250,M,Brown & White,Medium,N
+A2486,19,$250,M,Brown & Black,Large,N
+A2488,24,$195,M,White and black,Medium,Y
+A2489,13,$250,F ,Lab Mix,Medium,N
+A2490,12,$250,F,Tricolor,Small,N
+A2491,8,$250,M,Black & Gray,Small,U
+A2492,8,$250,M,Tricolor,Large,N
+A2493,67,$250,M,Tan,Small,Y
+A2494,41,$250,F,Brown,Small,N
+A2495,30,$195,F,Red,Small,N
+A2496,69,$250,F,Tan,Medium,N
+A2497,79,$250,F,Brindle & White,Small,N
+A2498,26,$250,F,Brindle & White,Medium,N
+A2499,33,$250,F,White & Tan,Small,N
+A2503,17,$250,F,Black & White,Medium,N
+A2504,146,$125,F,Yellow,Small,N
+A2505,22,$250,M,Brown,Medium,N
+A2507,7,$250,M,Dark Brown with White,Small,N
+A2508,49,$250,M,White w/Tan mask,Medium,N
+A2510,67,$250,M,Black,Medium,N
+A2512,8,$250,M,Red,X Large,N
+A2513,78,$250,M,Merle,Medium,N
+A2515,41,$250,F,Tan,Medium,N
+A2516,12,$250,F,white,Small,Y
+A2519,12,$250,F,White/Gray,Small,N
+A2520,0,$250,F,Tan & White,Small,N
+A2522,46,$250,M,Grey & White,Medium,N
+A2523,26,$250,M,Black,Medium,N
+A2526,42,$195,M,White & Tan,Medium,Y
+A2527,113,$50,F,Red,Medium,Y
+A2528,22,$250,F,Black & Tan,Medium,Y
+A2530,62,$250,F,White w/Tan mask,Medium,N
+A2532,32,$195,M,Brown Merle & White,Medium,N
+A2533,460,$195,M,White & Blue,Medium,N
+A2534,16,$250,F,Black & White,Medium,N
+A2536,67,$250,F,Black,Small,N
+A2537,18,$250,M,Black & White,Medium,N
+A2538,32,$250,F,Black & White,Medium,N
+A2539,67,$250,M,Black  ,Medium,N
+A2540,12,$195,M,Black & white,X Large,Y
+A2541,13,$250,F,Black & Tan,Small,N
+A2542,47,$250,F,Black & Tan,Medium,N
+A2543,37,$250,F,Black & white,Medium,N
+A2545,44,$250,F,Tricolor,Small,Y
+A2546,35,$250,F,Black & White,Medium,N
+A2547,29,$250,M,white,Small,Y
+A2548,60,$250,M,Grey/White,,
+A2551,22,$250,F,Black & Tan,Large,N
+A2553,316,$250,M,Black & Brown,Large,N
+A2554,47,$250,M,Black & Brown,Large,N
+A2555,4,$175,M,Silver & Tan,Small,Y
+A2556,52,$250,M,Tan,Medium,N
+A2558,16,$175,M,white w/black,Small,Y
+A2559,24,$250,M,Black & Brown,Large,N
+A2560,17,$250,M,Tan & White,Medium,N
+A2561,42,$250,F,White & Tan,Small,U
+A2563,58,$250,M,Black,Medium,N
+A2565,411,$250,F,Black,Large,Y
+A2571,75,$250,M,Black & White,Medium,N
+A2572,23,$250,M,Tan & White,Small,N
+A2573,67,$195,M,Tan & White,Medium ,N
+A2574,22,$250,M,Black,Large,N
+A2576,88,$250,M,Fawn,Medium,N
+A2577,17,$250,M,Fawn,Medium,N
+A2578,19,$195,M,"White, grey and tan",Small ,N
+A2579,13,$195,F,White,Medium,N
+A2580,25,$250,F,Tricolor,Small,N
+A2581,61,$250,F,Brindle. White spot on nose,Medium,N
+A2582,173,$195,M,Blue & White,Medium,N
+A2584,19,$250,M,White,Large,N
+A2586,12,$250,F,Black & white,Medium,?
+A2587,24,$250,F,Black & White,Small,Y
+A2588,14,$250,F,Black & White,Medium,N
+A2589,93,$195,F,Black & White,Small,N
+A2591,31,$250,F,White & Brown,Small,N
+A2594,58,$250,M,Black & White,Medium,N
+A2596,62,$125,M,Grey & White,Small,N
+A2597,44,$250,M,Silver & Tan,Small,N
+A2598,37,$250,M,tan/red,Medium,N
+A2600,17,$250,M,Black & White,Small,N
+A2601,65,$250,M,Brown w/White,Medium,N
+A2607,55,$250,F,Black & Brown,Large,N
+A2608,10,$250,F,Black & White,Medium,N
+A2609,9,$250,F,Reddish Brown,Small,N
+A2611,34,$175,F,White & tan,Small,N
+A2615,69,$250,F,Black,Medium,N
+A2616,10,$250,F,Fawn,Medium,N
+A2618,40,$250,F,Tricolor,Medium,N
+A2619,19,$175,M,Black,Small,Y
+A2620,30,$125,F,Red,Small,Y
+A2621,7,$250,F,Brown  ,Medium,N
+A2623,95,$250,F,Black,Medium,N
+A2624,7,$250,F,Brown & White,Medium,N
+A2625,38,$250,F,Black & Tan,Medium,N
+A2626,78,$250,F,Brindle,Medium,N
+A2627,8,$195,F,Apricot,Small,Y
+A2628,5,$250,F,Black & White,Small,N
+A2630,10,$250,F,Blue and white,Large,N
+A2631,74,$250,F,White with Black head,Medium,N
+A2632,42,$195,M,Blue Brindle,Large,N
+A2633,181,$250,F,Brown and white,Medium,N
+A2634,78,$250,F,Tricolor,Medium,N
+A2635,62,$195,F,White & Brindle,Medium,Y
+A2636,48,$250,F,White & Black,Small,N
+A2637,317,$100,F,White & Black,Medium,N
+A2638,8,$250,F,Black & White,Medium,N
+A2640,65,$250,M,Brown,Medium,N
+A2641,143,$175,M,Tan & White,Small,Y
+A2642,23,$250,M,Brown,Medium,Y
+A2644,45,$250,F,Tan,Medium,N
+A2645,21,$195,M,Tan,Small,N
+A2646,40,$250,M,Brown,Small,N
+A2647,29,$250,F,Black,Medium,N
+A2648,27,$250,M,Black & White,Medium,N
+A2649,38,$250,F,Black & White,Medium,N
+A2650,14,$250,m,Brown,Small,N
+A2652,14,$250,F,Black & White,Small,N
+A2653,36,$250,F,Brindle,Small,N
+A2654,16,$250,F,Black,Large,N
+A2656,0,$195,F,Black,Small,N
+A2657,13,$250,F,Black & Tan,Large,N
+A2658,265,$175,F,Black & White,Small,N
+A2659,8,$175,F,Black & White,Small,N
+A2660,23,$250,F,Grey & White,Large,Y
+A2661,6,$250,F,Grey & White,Large,Y
+A2662,8,$195,F,Tan Merle,Large,N
+A2663,78,$250,F,Tricolor,Small,N
+A2665,41,$250,F,Yellow,Medium,N
+A2668,15,$175,F,Tan & White,Medium,N
+A2669,25,$195,M,Blue & White,Large,N
+A2671,13,$195,F,Silver,Small,Y
+A2672,54,$250,F,Fawn,Medium,N
+A2673,18,$250,M,Tan,Small,N
+A2674,7,$250,M,Red,Large,N
+A2675,6,$250,M,Brindle,Small,N
+A2677,67,$250,M,Black & White,Medium,N
+A2679,13,$250,M,Black & Tan,Small,N
+A2680,30,$250,F,Black with some White,Medium,N
+A2681,23,$250,F,White,Medium,N
+A2682,40,$250,M,Brindle & White,Medium,Y
+A2683,0,$250,F,Black & Tan,Small,N
+A2685,0,$100,M,Brwon & White,Medium,N
+A2687,36,$250,F,Black & Tan,Small,N
+A2688,27,$250,M,Brown and white,Medium,N
+A2689,50,$125,M,Tan,Small,N
+A2691,0,$250,F,White &  Tan,Small,N
+A2692,14,$250,M,Yellow,Small,N
+A2693,13,$250,F,Black & Tan,Small,Y
+A2696,63,$250,M,White,Medium,N
+A2697,77,$250,M,Tan,Medium,N
+A2698,69,$250,M,Black,Medium,N
+A2699,0,$250,M,Tan & White,Small,N
+A2700,14,$250,M,White & Black,Small,Y
+A2702,54,$250,M,"Tan with black black mask, long hair",Small,N
+A2703,7,$250,M,Black,Medium,N
+A2704,81,$250,M,brown,Medium,N
+A2705,4,$250,M,Black,Medium,N
+A2706,65,$250,M,Grey w/Black & White,Medium,N
+A2707,65,$250,M,Merle,Medium,N
+A2708,26,$250,M,Black & White,Large,N
+A2709,0,$250,M,Brown,Small,Y
+A2711,34,$250,M,White & Grey,Small,N
+A2714,81,$250,M,tan and white,,
+A2715,104,$250,F,Black,Large,N
+A2716,90,$250,F,Black & Tan,Small,N
+A2717,37,$250,M,Tricolor,Small,N
+A2718,29,$250,M,White,Medium,N
+A2719,74,$250,F,Black,Medium,N
+A2721,71,$250,M,Chocolate,Medium,N
+A2722,33,$195,F,Tan,Medium,N
+A2724,7,$250,F,Black,Medium,N
+A2725,6,$250,F,Cream,Large,N
+A2726,221,$100,F,Red,Medium,N
+A2727,67,$250,F,Tan & Black all 4 feet have white on them,Small,N
+A2729,161,$195,F,Tan,Medium,N
+A2730,61,$250,M,Brindle,Medium,N
+A2732,26,$250,M,Tan,Medium,Y
+A2733,14,$250,F,Tricolor,Medium,N
+A2734,114,$175,F,Black & Tan,Small,Y
+A2737,138,$250,M,Tan,Medium,N
+A2739,255,$100,M,White,Medium,Y
+A2741,397,$100,F,Black,Medium,Y
+A2742,320,$100,F,Black,Medium,Y
+A2743,35,$250,F,Blue & White,Medium,N
+A2744,80,$250,F,,,
+A2745,69,$250,F,Black,Medium,N
+A2746,3,$250,F,Tricolor,Small,N
+A2747,34,$250,M,Tan & Black,Small,N
+A2748,3,$250,M,Black,Small,N
+A2749,53,$250,M,Black,Medium,N
+A2750,11,$250,M,Grey,Small,N
+A2751,24,$250,M,White and grey,Small,N
+A2752,16,$250,M,Tricolor,Large,Y
+A2753,68,$195,M,Blue & white,Large,N
+A2755,31,$250,M,Black,Medium,N
+A2756,67,$250,M,Black & brown,Small,N
+A2757,82,$250,M,White & Tan,Small,N
+A2758,113,$195,F,Red  ,Medium,N
+A2759,22,$250,M,Black & Grey,Small,Y
+A2760,13,$195,F,Brown & White,Small,Y
+A2761,243,$100,F,Black Brindle,Medium,N
+A2762,3,$250,M,black w/brown,Medium,N
+A2763,215,$100,M,Tan,Small,N
+A2764,123,$100,M,Tan,Small,N
+A2767,17,$250,F,Cream,Large,Y
+A2769,45,$250,F,Blue & White,Medium,N
+A2771,38,$250,M,White & Tan,Medium,N
+A2772,27,$250,M,Red & White,Medium,Y
+A2773,25,$250,F,black & tan,Small,N
+A2774,35,$250,M,Black,Medium,Y
+A2775,48,$250,M,Brindle,Medium,N
+A2777,133,$100,M,Brown,Medium,Y
+A2782,35,$250,M,Tan & White,Large,N
+A2783,32,$250,F,Brindle w/White,Medium,N
+A2784,25,$250,F,Brown,Medium,N
+A2786,169,$250,F,tan,Medium,N
+A2789,73,$250,F,Black,Medium,N
+A2790,4,$250,F,Brown,Small,N
+A2791,37,$250,F,Brown,Medium,Y
+A2792,46,$250,F,Red,Small,N
+A2793,22,$250,M,Tricolor,Large,N
+A2795,17,$250,F,Black & White,Medium,N
+A2796,18,$195,F,Brindle,Medium,N
+A2797,61,$250,F,Brown & White,Large,Y
+A2800,76,$250,M,Grey and White,Small,N
+A2801,27,$250,F,Black,Medium,N
+A2802,370,$250,F,Black,Medium,N
+A2803,4,$250,F,Black,Medium,N
+A2804,8,$250,F,Black & tan,Medium,Y
+A2805,30,$195,F,Tan,Medium,Y
+A2807,10,$250,F,Tricolor,Small,N
+A2808,67,$195,M,Black & White,Medium,N
+A2809,21,$195,M,Black & White,Medium,N
+A2810,110,$250,M,Tan,Medium,N
+A2811,77,$250,M,Tan with BLack mask,Medium,N
+A2812,31,$250,F,Tan,Small,Y
+A2814,91,$250,F,Brown and white,Medium,N
+A2816,13,$250,M,Black,Small,Y
+A2817,0,$250,M,Tan & White,Large,N
+A2818,27,$250,M,Grey,Medium,N
+A2819,21,$250,F,Black & White,Medium,N
+A2821,56,$250,M,Brown & White,Medium,N
+A2822,30,$250,M,Brown & White,Medium,Y
+A2824,22,$250,F,Black,Large,N
+A2825,23,$250,M,Black & Tan,Small,N
+A2826,64,$100,F,Merle & White,Large,N
+A2827,18,$250,F,Black,Large,N
+A2828,39,$250,F,Yellow,Medium,N
+A2831,50,$195,M,Brown,Small,N
+A2833,102,$250,M,White & blue,Medium,N
+A2834,69,$250,M,Tan & White,Medium,N
+A2835,24,$250,F,Brown,Medium,N
+A2838,7,$250,F,Blonde,Small,N
+A2840,13,$250,F,Brown & Black,Medium,N
+A2841,27,$125,F,Brown & Black,Small,Y
+A2842,16,$250,F,Tan & White,Small,N
+A2844,8,$250,M,Brown,Medium,N
+A2845,24,$250,M,Grey,Medium,N
+A2846,27,$195,M,Tan,Small,N
+A2847,0,$250,M,Tan & White,Large,N
+A2848,89,$250,M,Yellow & Tan,Small,Y
+A2850,25,$250,F,Black & Tan,Medium,N
+A2851,17,$250,F,Black,Large,N
+A2852,30,$250,F,Tricolor,Medium,N
+A2853,79,$250,F,Tricolor,Small,N
+A2854,44,$250,F,White,Large,N
+A2855,99,$250,F,White & Brown,Medium,N
+A2857,18,$250,M,Black & Brown,Large,N
+A2858,148,$100,M,Black & White,Medium,N
+A2859,4,$195,M,Black & White,Medium,N
+A2860,11,$125,M,Tan,Small,N
+A2863,23,$250,F,Black & Tan,Medium,N
+A2864,29,$250,M,Brown & White,Small,N
+A2866,175,$195,F,black ,Medium,N
+A2867,82,$250,M,Black & Brown,Medium,N
+A2868,19,$195,F,Black & White,Medium,N
+A2869,49,$250,F,Brown,Medium,N
+A2870,17,$250,F,Black,Large,N
+A2871,65,$250,F,Black & White,Medium,N
+A2873,33,$250,M,Tricolor,Small,N
+A2874,33,$250,M,White & Brown,Medium ,N
+A2875,51,$250,M,Black,Medium,N
+A2876,56,$250,M,Black,Medium,N
+A2877,81,$250,M,Black & White,Medium,N
+A2878,38,$250,F,Black,Medium,N
+A2882,14,$195,F,Red,Small,N
+A2884,76,$250,M,Black,Medium,N
+A2885,9,$250,M,Tan & Black,Small,N
+A2887,16,$195,M,Brown,Small,Y
+A2888,20,$195,M,White,Small,N
+A2890,36,$250,M,Tricolor,Small,N
+A2891,205,$195,M,Black,Medium,Y
+A2892,114,$195,M,Black,Medium,Y
+A2893,42,$195,M,Black,Medium,Y
+A2894,35,$250,F,Black & White,Medium,N
+A2897,65,$250,M,Black & White,Small,Y
+A2898,120,$250,M,Red,Large,N
+A2899,76,$250,M,Red,Large,N
+A2900,8,$250,M,Red,Large,N
+A2901,15,$250,M,Brown,Medium,N
+A2902,38,$250,M,Black & Tan,Small,N
+A2904,29,$175,M,Grey  ,Small,N
+A2905,0,$250,M,Tan,Small,N
+A2906,23,$250,M,Tan,Medium,N
+A2907,35,$250,M,Tan & White,Large,N
+A2908,6,$195,M,Brown & Black,Medium,Y
+A2909,52,$250,M,Brown,Medium,Y
+A2910,0,"$1,959",M,White,Small,N
+A2911,24,$250,M,Black & White,Medium,N
+A2913,19,$250,F,Black,Large,N
+A2914,15,$250,M,Black & Tan,Medium,N
+A2915,130,$250,F,Black,Medium,N
+A2916,7,$250,M,Tan,Small,N
+A2917,0,$195,M,Brown & White,Medium,N
+A2919,47,$250,M,Black   ,Medium,N
+A2920,22,$175,M,Brown,Small,N
+A2921,10,$125,M,Brown,Small,N
+A2922,89,$175,M,Tan,Small,N
+A2924,26,$195,M,Red,Medium,N
+A2926,4,$250,F,Black & Grey,Small,N
+A2927,4,$250,F,Black/Gret,Small,N
+A2928,66,$250,F,Black & White,Medium,N
+A2930,228,$250,F,Grey/White,Medium,N
+A2931,74,$250,F,Grey/White,Medium,N
+A2932,20,$250,F,Tri color,Medium,Y
+A2934,25,$250,F,Tan,Medium,N
+A2935,69,$250,M,White,Small,N
+A2936,60,$250,F,Black & White,Medium,N
+A2937,5,$250,M,Tricolor,Small,N
+A2938,209,$250,F,Blue,Medium,N
+A2939,49,$250,F,Brown,Medium,N
+A2940,33,$250,F,Tricolor,Small,N
+A2941,0,$250,M,Brindle,Small,N
+A2942,80,$250,F,Black & Tan,Medium,N
+A2943,0,$250,M,Black & White,Large,N
+A2944,15,$250,F,Black & Brown,Small,N
+A2946,29,$250,M,Black & White,Small,N
+A2947,6,$195,M,Brown,Large,Y
+A2949,18,$195,F,White,Small,N
+A2950,0,$250,M,White,Medium,N
+A2951,41,$250,M,Black w/Grey,Small,N
+A2952,18,$250,F,Brown,Medium,N
+A2953,207,$250,M,Brown & Tan,Medium,Y
+A2954,38,$250,M,Brown & Tan,Medium,Y
+A2955,55,$250,F,Red & White,Medium,N
+A2957,27,$250,F,Black & White,Large,Y
+A2959,8,$250,M,Tan & White,Medium,N
+A2960,24,$250,M,White & Tan,Small,N
+A2963,103,$250,F,White,Small,N
+A2965,43,$250,M,White & Blue,Medium,N
+A2966,13,$250,F,Black & White,Medium,N
+A2967,69,$250,F,Brown,Medium,N
+A2969,10,$250,F ,Black & White,Medium,N
+A2970,10,$250,M,Black & Tan,Small,N
+A2971,22,$175,M,Brown & White,Medium,N
+A2973,27,$195,F,Red/Black,Small,N
+A2974,25,$250,M,Silver & Tan,Small,N
+A2975,146,$100,M,White & Black,Medium,Y
+A2977,0,$175,F,Tan & White,Small,N
+A2978,0,$250,F,Black & White,Medium,N
+A2979,189,$250,F,White,Medium,Y
+A2980,146,$195,f,White,Medium,Y
+A2982,21,$250,F,Black & white,Medium,N
+A2984,5,$250,M,Brindle,Medium,Y
+A2985,8,$125,F,White,Small,N
+A2986,0,$195,F,Black & Brown,Small,N
+A2988,85,$195,F,Brindle,Medium,N
+A2989,70,$250,F,Brown,Medium,Y
+A2990,59,$250,F,Tan & Black,Small,N
+A2991,70,$250,F,Black,Medium,N
+A2992,57,$250,F,Brindle & White,Medium,Y
+A2994,18,$250,F,Tan,Small,N
+A2995,0,$250,F,Tan & White,Medium,N
+A2996,13,$250,F,Tricolor,Medium,N
+A2997,23,$250,F,White,Medium,N
+A2998,51,$250,F,Black & White,Medium,N
+A3000,14,$250,F,Black,Medium,N
+A3001,181,$250,F,Black,Medium,N
+A3002,0,$250,F,Black,Medium,N
+A3003,0,$195,F,Black,Medium,Y
+A3004,24,$250,F,Black,Medium,N
+A3005,33,$250,M,Black & White,Medium,N
+A3007,20,$250,F,White with Brindle,Large,N
+A3009,32,$250,F,Blue Merle,Medium,N
+A3010,0,$250,F,Black,Medium,N
+A3011,28,$250,F,Brown,Small,Y
+A3013,80,$250,M,Black/Brindle,Large,N
+A3014,419,$195,M,Brown,Small,Y
+A3015,15,$250,M,Tan,Small,N
+A3016,0,$250,M,Tan & White,Medium,N
+A3017,64,$250,M,Brindle & White,Medium,N
+A3018,24,$250,M,Brown & White,Medium,N
+A3020,101,$250,M,White & Fawn,Small,N
+A3021,79,$250,M,Black & Tan,Small,N
+A3022,46,$250,M,Blue,Large,Y
+A3023,24,$250,M,Grey & Black,Small,N
+A3024,67,$250,M,Tan,Small,Y
+A3025,15,$250,M,Tan & Grey,Small,N
+A3026,50,$250,M,White,Medium,Y
+A3028,25,$250,M,White & Tan,Small,N
+A3029,20,$250,M,,Large,N
+A3031,20,$250,F,Black,Medium,N
+A3032,33,$250,F,Tan & White,Medium,N
+A3033,33,$250,F,Tan & White,Medium,N
+A3035,24,,F,Black,Small,N
+A3036,7,$250,F,Black & White,Small,N
+A3038,250,$100,F,White,Medium,Y
+A3039,215,$100,F,White,Medium,Y
+A3040,215,$100,F,White,Medium,Y
+A3041,18,$250,F,Tan & White,Large,N
+A3042,32,$250,M,Gray and Black Brindle,Medium,N
+A3043,19,$125,F,Black & Brown,Small,N
+A3044,33,$250,F,Black & Gray,Small,N
+A3045,27,$125,F,Brown,Small,Y
+A3047,19,$250,F,Tricolor,Small,Y
+A3049,33,$250,F,White,Small,N
+A3050,99,$195,M,Black & White,Medium,N
+A3052,8,$250,M,Black & White,Medium,Y
+A3053,0,$250,F,White,Small,N
+A3055,0,$250,M,Black,Small,N
+A3056,68,$250,M,Tricolor,Medium,N
+A3057,65,$250,F,Black/White/Brindle,Small,N
+A3059,8,$250,M,Black,Small,N
+A3060,64,$250,F,Black & Tan,Small,N
+A3061,36,$250,M,Tricolor,Small,N
+A3062,25,$250,F,black & tan,Small,N
+A3063,88,$195,M,Yellow,Medium,Y
+A3064,27,$250,M,Black,Small,N
+A3065,12,$250,F,Black,Small,N
+A3066,39,$250,F,Black,Medium,N
+A3067,12,$250,F,Black & White,Medium,N
+A3068,21,$250,F,Black & White,Medium,N
+A3070,25,$250,F,Brown,Medium,N
+A3071,78,$250,F,White with brown/black markings,Medium,N
+A3073,30,$250,M,Black,Small,N
+A3074,28,$250,M,Brindle,Large,N
+A3075,12,$150,M,Tan,Small,N
+A3077,110,$195,F,Tricolor,Small,Y
+A3079,65,$195,F,Black,Small,N
+A3080,31,$250,F,Black & White,Medium,N
+A3082,9,$250,F,Tricolor,Small,N
+A3083,10,$250,F,"Tricolor
+",Small,N
+A3084,45,$195,M,Black & White,Medium,N
+A3087,63,$250,M,Tricolor,Small,N
+A3089,18,$250,M,White & Tan,Medium,N
+A3091,9,$250,M,Black,Medium,N
+A3092,14,$195,M,White,Medium,Y
+A3093,18,$195,F,Blue & White,Medium,N
+A3094,22,$250,F,white w brown,Medium,N
+A3095,33,$195,M,White & Black,Medium,N
+A3096,49,$250,F,Tan & Black,Small,N
+A3098,30,$250,M,Black & White,Medium,N
+A3099,27,$250,M,Tan,Large,Y
+A3100,4,$250,M,Fawn,Small,N
+A3101,59,$195,F,Tan,Medium,Y
+A3102,63,$250,F,White & Brown,Medium,N
+A3103,7,$250,F,Black,Medium,N
+A3104,10,$195,M,Black & Silver,Small,Y
+A3106,0,$250,F,Brown,Medium,N
+A3107,21,$250,F,Brown,Medium,N
+A3109,26,$195,M,Black & White,Small,Y
+A3110,54,$250,M,Black & Brown,Small,N
+A3112,48,$250,F,Tan & White,Medium,N
+A3113,31,$250,M,Black,Medium,N
+A3114,33,$250,M,Black,Medium,N
+A3117,18,$250,M,White with Brown Spots,Medium,N
+A3118,322,$100,M,White,Medium,N
+A3119,39,$250,F,light tan,Small,N
+A3120,18,$250,M,Black,Medium,N
+A3121,61,$250,M,Grey/White,,
+A3122,24,$250,F,Black,Medium,N
+A3124,27,$250,F,Blonde/Tan,Small,Y
+A3125,34,$195,F,Cream with tan,Small,N
+A3127,22,$250,F,Brown & Black,Small,N
+A3128,41,$175,F,White & Black Brindle,Medium,Y
+A3129,23,$195,F,Blue & White,Medium,U
+A3130,245,$195,F,Brindle,Medium,Y
+A3131,54,$175,M,Black,Small,N
+A3132,16,$195,M,Brindle,Large,N
+A3134,292,$250,F,Brown white,Large,Y
+A3135,42,$250,F,Tan,Medium,N
+A3136,125,$195,F,Black,Medium,N
+A3139,211,$250,F,Black,Medium,N
+A3140,9,$125,M,Brown,Small,N
+A3142,13,$175,F,Black & White,Small,Y
+A3143,92,$195,F,Tan & White,Medium,N
+A3144,7,$195,F,Blue  ,Medium,N
+A3145,34,$250,F,White & Brown,Medium,N
+A3146,52,$250,F,Brown & White,Medium,N
+A3149,25,$250,F,White,Small,N
+A3151,4,$250,M,Red,Small,N
+A3152,22,$250,M,White & Black,Small,N
+A3153,73,$250,F,Blue & White,Medium,N
+A3155,54,$250,M,Tan & Black with white on chest,Small,N
+A3156,110,$250,M,white,Medium,N
+A3157,55,$250,F,Black,Medium,N
+A3159,27,$195,F,Tan & Black,Small,N
+A3160,38,$250,F,Tricolor,Medium,N
+A3161,67,$250,M,Fawn,Medium,N
+A3166,510,$195,F,blue and white,Medium,N
+A3167,29,$195,F,Tan,Small,N
+A3171,32,$250,F,Red & White,Small,N
+A3174,27,$250,M,Merle,Medium,N
+A3175,3,$195,M,Tan and white,Medium,Y
+A3178,23,$250,M,Merle,Medium,N
+A3179,9,$250,M,Brown & White,Small,N
+A3180,29,$250,M,White & Tan,Small,N
+A3181,59,$250,M,Black,Medium,N
+A3182,28,$250,F,Brindle,Medium,N
+A3184,75,$250,F,Black & White,Medium,N
+A3185,78,$250,F,Brown,Medium,N
+A3187,8,$250,M,Chocolate,Large,N
+A3188,20,$250,M,White/Brown/Black,Medium,N
+A3189,15,$250,M,Tan,Small,N
+A3190,92,$100,M,Blue & White,Medium,N
+A3192,10,$250,M,Black,Small,N
+A3194,16,$250,M,Black & Tan,Medium,N
+A3196,38,$250,M,Tan,Small,N
+A3197,12,,M,Black & White,Medium,N
+A3198,38,$250,M,Black & White,Large,Y
+A3199,15,$250,M,Red,Medium,N
+A3200,0,$250,M,Black,Small,N
+A3201,10,$250,M,Black & Tan,Medium,N
+A3203,4,$250,M,Tan & White,Medium,N
+A3204,55,$250,M,Black,Medium,N
+A3205,22,$250,F,Black,Medium,N
+A3206,12,$250,F,Black,Medium,N
+A3208,14,$250,F,Black & Tan,Small,N
+A3209,88,$250,M,Tan/white,Medium,N
+A3210,33,$250,F,Tricolor,Medium,N
+A3211,22,$250,F,Black & Brown,Medium,N
+A3212,39,$250,M,Black,Medium,N
+A3213,26,$250,M,Tan,Medium,N
+A3215,66,$250,F,brindle,,Y
+A3216,8,$250,F,black w/brown,Medium,N
+A3219,86,$250,F,Red,Small,N
+A3222,0,$125,F,White,Small,N
+A3224,28,$250,M,Brown &  Tan,Medium,N
+A3225,64,$250,F,Black & White,Small,N
+A3227,80,$250,M,Black & White,Small,N
+A3228,56,$250,M,Black & White,Small,N
+A3229,167,$250,M,Tan,Small,N
+A3230,3,$195,M,Tan & White,Medium,N
+A3231,74,$250,M,White Brindle,Medium,N
+A3232,6,$250,M,Tan,Medium,N
+A3234,23,$250,F,Brindle,Medium,N
+A3235,0,$250,M,Tricolor,Medium,N
+A3236,32,$250,M,Black,Medium,N
+A3237,15,$195,M,Black and Tan,Large,Y
+A3240,52,$250,M,White,Medium,N
+A3241,24,$250,F,White,Small,N
+A3242,31,$250,M,Brindle,Medium,N
+A3244,0,$250,M,Tan,Medium,N
+A3245,73,$250,M,Black,Medium,N
+A3247,24,$250,M,Brown & White,Small,N
+A3249,66,$250,F,Black,,Y
+A3251,56,$250,F,Black and Tan ,Small,N
+A3252,1,$195,M,Grey,Large,Y
+A3256,0,$195,M,Black & White,Medium,N
+A3257,11,$195,M,Tan with Black Face,Small,N
+A3258,55,$250,M,Brown and white,Medium,N
+A3259,33,$250,M,Brown & Tan,Small,N
+A3260,4,$250,M,tan,Small,N
+A3264,17,$250,F,Tan & White,Small,N
+A3265,70,$250,M,Black,Medium,N
+A3267,122,$195,F,Black,Medium,Y
+A3268,27,$250,M,Black & White,Medium,N
+A3269,14,$250,M,Black & White,Small,N
+A3270,8,$250,F,Merle,Medium,N
+A3271,27,$250,F,Tricolor,Small,N
+A3272,108,$195,M,Tricolor,Medium,N
+A3274,40,$250,F,Tricolor,Medium,Y
+A3275,12,$195,M,White & Black,Medium,N
+A3276,46,$250,M,Brown & White,Medium,N
+A3277,68,$250,F,black & white,,Y
+A3279,0,$250,F,Red & White,Medium,N
+A3280,25,$195,F,White,Small,N
+A3281,67,$250,F,white & black,Medium,Y
+A3283,13,$125,M,Black & Brown,Small,Y
+A3285,14,$195,M,Blue & White,Large,N
+A3286,22,$250,M,Black & Brown,Medium,N
+A3287,26,$250,M,Black,,N
+A3288,16,$250,M,Brown & Black,Small,N
+A3289,66,$250,M,White,Medium,N
+A3290,48,$195,M,Blue & White,Medium,N
+A3292,7,$250,M,Tricolor,Large,N
+A3293,42,$250,M,Black,Medium,N
+A3294,6,$250,M,Black & Brown,Small,N
+A3295,38,$195,M,White & Brown,Large,N
+A3296,0,$125,M,Tan & White,Large,Y
+A3298,113,$100,M,Black,Medium,N
+A3299,85,$100,M,Black,Medium,Y
+A3300,31,$250,M,Black,Medium,N
+A3301,9,$250,M,Black & White,Large,N
+A3302,27,$195,M,Brindle,Medium,Y
+A3303,71,$195,M,Brown & White,Large,N
+A3304,8,$250,M,Fawn,Small,N
+A3305,29,$250,M,Black,Large,Y
+A3306,71,$175,M,Tan & White,Medium,N
+A3307,115,$250,M,merle,X Large,Y
+A3309,28,$250,F,Black & Tan,Small,N
+A3310,32,$250,M,White & Tan,Small,N
+A3311,69,$250,M,Tan & White,Medium,N
+A3312,38,$250,M,Yellow,Medium,N
+A3314,152,$250,M,Black & White,Medium,Y
+A3315,79,$250,M,Black & White,Medium,Y
+A3316,22,$250,M,Black & White,Medium,Y
+A3318,92,$250,M,Tricolor,Small,N
+A3319,0,$250,M,Brindle. White Strip down nose,Medium,N
+A3320,15,$250,M,Tan,Medium,N
+A3321,16,$250,M,Black & Brown,Medium,N
+A3322,13,$250,M,Black & White,Small,N
+A3323,2,$250,M,Brown & White,Medium,N
+A3324,22,$250,F,Black & Tan,Large,N
+A3325,17,$250,M,Tan & White,Medium,N
+A3326,130,$250,F,Tan & White,Medium,N
+A3327,44,$250,F,Tan & White,Medium,N
+A3328,260,$250,F,Black,Medium,N
+A3329,27,$250,F,Black,Medium,N
+A3330,11,$250,M,White,Medium,N
+A3331,24,$250,M,Tan,Medium,N
+A3332,65,$250,F,Tan,Small,N
+A3333,33,$195,M,Tan,Small,N
+A3334,77,$250,F,Black,Medium,N
+A3335,31,$250,F,Tan & White,Medium,N
+A3336,28,$250,F,Black & Tan,Small,N
+A3337,70,$195,F,Tan & White,Medium,N
+A3338,25,$195,F,Tan & White,Medium,N
+A3339,0,$250,F,Black & White,Medium,N
+A3340,20,$175,M,Black & Tan,Small,Y
+A3342,65,$250,M,Tricolor,Medium,Y
+A3344,29,$250,F,Black & White,Medium,N
+A3345,26,$250,F,Black/Brown & White,Medium,N
+A3347,14,$250,F,Black & WHite,Medium,N
+A3348,29,$250,F,Black & White,Small ,N
+A3351,77,$250,F,Black,Medium,N
+A3353,8,$250,F,Black & Brown,Medium,N
+A3354,28,$250,F,Black,Medium,N
+A3356,6,$195,F,Grey,Small,N
+A3357,96,$250,F,"Red, tricolor",Small,N
+A3359,25,$250,F,White,Small,U
+A3360,12,$250,F,White,Small,Y
+A3361,2,$250,F,Yellow,Medium,Y
+A3362,58,$250,F,Black and white,Medium,N
+A3364,22,$175,F,Red,Small,N
+A3366,60,$250,M,Brown & Tan,Small,N
+A3367,56,$250,M,Blue/Grey,Medium,N
+A3368,11,$250,F,Black,Large,N
+A3369,0,$250,F,Red,Medium,N
+A3370,6,$250,M,Black,Medium,N
+A3371,114,$250,M,White & Brown,Medium,N
+A3374,9,$250,F,Brown & White,Large,Y
+A3375,18,$175,F,Black &  Tan,Medium,Y
+A3376,43,$195,F,brown,Medium,Y
+A3377,46,$250,F,Tan with white,Medium,U
+A3378,32,$250,F,Black & White,Medium,Y
+A3380,16,$195,F,Red,Large,N
+A3381,25,$195,M,White,Small,N
+A3383,29,$250,F,Black,Medium,N
+A3384,70,$250,F,Black,Medium,N
+A3385,28,$250,F,Black & Tan,Small,N
+A3386,90,$250,F,Black & White,Medium,N
+A3387,10,$250,F ,Lab Mix,Medium,N
+A3389,35,$250,F,Tan/Fawn & White,Medium,N
+A3390,12,$250,F,Tricolor,Small,N
+A3391,41,$195,M,White,Large,Y
+A3392,35,$195,M,White,Small,N
+A3393,152,$250,M,White and tan,Large,Y
+A3394,16,$250,F,Brown and white,Medium,Y
+A3397,86,$250,M,Black,Large,N
+A3399,26,$250,M,Black & Tan,Large,Y
+A3400,17,$195,M,Brown & White,Medium,N
+A3401,7,$250,F,Black & Brown,Medium,N
+A3402,32,$250,M,Black,Medium,N
+A3404,43,$195,M,Brindle & White,Medium,N
+A3405,58,$195,M,Brindle & White,Medium,N
+A3406,12,$250,M ,Tricolor,Small,N
+A3408,37,$250,M,Brindle,Medium,N
+A3409,5,$195,M,Brown & Black,Small,Y
+A3411,32,$250,M,Brown,Medium,N
+A3412,25,$250,F,Tan & White,Medium,N
+A3413,40,$250,F,Black ,Small,N
+A3414,3,$250,F,White & Brown,Medium,N
+A3415,3,$195,F,Blue & White,Medium,Y
+A3416,120,$250,F,Black,Large,N
+A3417,17,$250,F,Black,Medium,N
+A3418,43,$250,F,Black,,
+A3419,144,$195,F,White,Small,N
+A3420,35,$250,F,Yellow,Large,N
+A3422,35,$250,F,Black,Medium,N
+A3423,38,$250,F,Tan,Medium,N
+A3425,20,$250,F,Tricolor,Small,N
+A3427,49,$195,F,Black,Medium,Y
+A3428,42,$195,F,Black,Large,Y
+A3429,12,$250,F,Black & Tan,Small,N
+A3430,30,$250,F,Black & Tan,Medium,
+A3431,63,$195,F,Black and Tan,Large,N
+A3432,42,$250,F,Brindle,Large,Y
+A3433,146,$125,F,Blue & White,Medium,N
+A3434,36,$250,F,Black & Brown,Medium,N
+A3436,40,$250,M,Tan & White,Medium,N
+A3437,155,$100,M,White & Black,Small,N
+A3438,22,$175,M,Black & Silver,Small,N
+A3439,63,$250,M,White,Medium ,N
+A3440,39,$250,F,Brindle,Medium,N
+A3442,0,$195,F,Tricolor,Small,N
+A3443,34,$250,F,Yellow,Medium,Y
+A3444,15,$250,F,Tan,Small,N
+A3446,135,$195,M,Black & WHite,Medium,N
+A3449,39,$250,M,Brown,Medium,N
+A3451,12,$250,F,black and brown,Medium,N
+A3453,27,$250,F,Brown & Tan,Medium,N
+A3454,42,$195,F,Black & White,Medium,N
+A3455,43,$250,M,Black & White,Small,N
+A3456,19,$250,M,Black w/Tan,Medium,N
+A3460,24,$250,M,Black & Tan,Medium,N
+A3461,16,$250,M,Brown,Small,N
+A3462,44,$250,M,Brown & White,Large,N
+A3463,92,$250,M,Black & White,Medium,N
+A3465,38,$250,M,Brown & Tan,Large,Y
+A3466,54,$250,F,Golden,Medium,N
+A3467,19,$250,F,Lt Red/Tan,Medium,N
+A3468,0,$250,F,Red,Medium,N
+A3471,129,$195,F,White & Tan,Medium,N
+A3472,15,$250,M,Blue & White,Medium,N
+A3474,39,$250,F,Black & White,Medium,N
+A3475,4,$195,F,Blue,Medium,Y
+A3476,50,$250,F,Black & White,Medium,N
+A3477,11,$250,F,Black & White,Medium,N
+A3479,54,$250,F,White with brown spot right above the tail looks like a cattle dog,Small,N
+A3480,35,$250,F,Black & Red,Medium,N
+A3482,26,$250,F,Black & Tan,Medium,N
+A3483,240,$250,M,brown,Medium,N
+A3484,130,$250,M,Tan,Small,N
+A3485,24,$250,M,Tricolor,Medium,N
+A3487,10,$250,M,White,Small,Y
+A3488,86,$250,F,White & Black,Medium,N
+A3491,2,$250,F,Tan & White,Large,Y
+A3493,50,$195,F,fawn brindle,Medium,Y
+A3494,21,$195,F,Black & Tan,Large,Y
+A3495,50,$250,F,Tan,Medium,N
+A3496,143,$250,F,Tri-color,Medium,N
+A3500,33,$250,F,Black & Brown,Small,N
+A3501,7,$250,F,Red,Small,N
+A3505,117,$250,M,White,Medium,N
+A3507,3,$250,M,Tan w/black mask,Medium,N
+A3508,16,$250,M,Tan,Small,Y
+A3510,36,$195,M,Black,Small,Y
+A3513,43,$250,M,Brown & Tan,Medium,N
+A3515,15,$250,M,Red,Medium,N
+A3516,53,$250,F,Brown & White,Medium,N
+A3517,27,$250,F,Tan,Medium,Y
+A3520,44,$250,M,White,Large,N
+A3521,79,$250,M,White with Black head,Medium,N
+A3522,25,$250,M,Brindle,Small,N
+A3523,50,$250,M,White with Tan markings,Medium,N
+A3524,149,$250,F,Tan,Medium,N
+A3527,15,$195,F,Black,Medium,Y
+A3528,33,$250,F,White with Brown Spots,Medium,N
+A3529,59,$175,F,Tan & White,Small,N
+A3530,22,$250,F,White & Brown,Large,N
+A3532,24,$250,F,Black & Whte,Medium,N
+A3533,35,$250,F,Black,Medium,N
+A3534,138,$195,F,Black & White,Medium,Y
+A3535,43,$250,F,Black,,
+A3536,21,$195,M,Tan &  White,Small,N
+A3538,415,$100,M,White with tan markings,Medium,N
+A3539,16,$250,F,Black,Medium,N
+A3540,19,$250,M,Black,Small,N
+A3541,134,$250,M,Black,Large,N
+A3542,19,$195,M,Black & Tan,Small,N
+A3547,87,$250,M,Tan & Black,Large,N
+A3548,25,$175,F,Black/brown,Small,Y
+A3549,70,$250,M,Black & Brown,Small,N
+A3550,10,$250,M,golden,Medium,N
+A3552,40,$195,M,Black & White,Medium,Y
+A3553,45,$195,M,Tan,Medium,Y
+A3556,5,$250,F,Brindle & White,Medium,N
+A3557,39,$250,F,tri-color,Medium,N
+A3558,6,$250,F,White,Medium,Y
+A3560,19,$250,F,Black,Large,N
+A3562,369,$100,F,White,Medium,N
+A3563,63,$100,F,Black & Brown,Medium,Y
+A3567,40,$250,F,Yellow,Large,N
+A3568,67,$250,M,Black & White,Medium,N
+A3569,21,$250,M,Yellow,Medium,N
+A3570,65,$250,F,White has brown over both eyes & white on the ear,Small,N
+A3571,2,$250,M,Tan & Black,Medium,N
+A3572,6,$250,M,Black & Tan,Large,Y
+A3573,27,$125,M,White,Small,N
+A3574,6,$250,M,White & Black,Medium,N
+A3575,50,$195,F,Black & White,Medium,Y
+A3576,12,$250,F,Tan,Small,N
+A3578,58,$250,F,Brown,Medium,N
+A3581,109,$195,F,Black & White,Medium,N
+A3582,339,$250,M,Tan & White,Medium,N
+A3585,0,$250,F,White. Grey Spot over eye,Medium,N
+A3586,11,$250,F,black and tan,Small,U
+A3587,145,$250,F,Tricolor,Small,Y
+A3588,49,$250,F,Tricolor,Small,Y
+A3590,26,$250,F,Black & White,Medium,N
+A3591,43,$250,F,Black,,
+A3594,244,$250,M,Brown & White,Large,N
+A3595,34,$250,M,Tan,Small,N
+A3596,87,$250,M,"Tan & Black, both back feel have white on toes",Small,N
+A3598,31,$250,F,Tan,Medium,N
+A3599,10,$250,M,Tan & White,Small,N
+A3600,0,$250,F,Brown,Medium,N
+A3601,0,$250,F,Brown,Medium,N
+A3602,145,$250,M,Black & Brown,Medium,N
+A3604,77,$195,F,Tan & White,Small,Y
+A3605,77,$195,F,Black & White,Medium,N
+A3606,11,$250,F,Light tan(fawn),Small,?
+A3608,14,$250,F,Tan,Small,N
+A3609,52,$250,F,Tricolor,Medium,N
+A3611,306,$250,M,Tan,Small,N
+A3612,0,$250,M,White & Black,Small,N
+A3613,28,$250,M,Black,Medium,N
+A3614,111,$250,M,brown white,Medium ,N
+A3615,17,$250,F,Grey & Tan,Small,N
+A3616,27,$250,F,Black & Tan,Medium,N
+A3618,66,$250,F,Tricolor,Small,N
+A3619,25,$250,F,White & Black,Medium,N
+A3620,200,$195,F,Brown,Medium,N
+A3622,23,$250,F,Black & White,Medium,N
+A3623,16,$195,M,Tricolor,Large,Y
+A3624,84,$250,M,Blue,Medium,N
+A3626,60,$250,M,Black & White,Small,N
+A3627,45,$250,F,Black with White nose,Medium,N
+A3629,59,$250,F,Brown & White,Medium,N
+A3630,35,$250,F,Brown & White,Medium,N
+A3631,69,$250,M,White,Medium,N
+A3633,43,$250,M,White,,
+A3634,12,$250,M,tan and white,Large,Y
+A3635,75,$250,F,Black & White,Medium,N
+A3636,7,$250,F,Black & White,Small,Y
+A3637,23,$250,F,Blue & White,Medium,N
+A3639,48,$250,M,Black & Brown,Small,N
+A3640,39,$250,M,Tan with Black,Medium,N
+A3642,9,$250,F,Chocolate,Medium,
+A3643,14,$250,M,Black & White,Medium,N
+A3644,25,$250,M,Brown,Medium,Y
+A3645,28,$250,M,Brown &  Tan,Medium,N
+A3646,104,$250,M,Tan & White,Medium,N
+A3647,60,$250,F,Chocolate & White ,Medium,N
+A3648,759,$195,F,White,Medium,U
+A3650,80,$250,M,White with Black head,Medium,N
+A3653,10,$250,F,Yellow,Large,N
+A3654,528,$175,F,white,Medium,Y
+A3657,7,$195,F,White,Small,Y
+A3658,29,$250,M,Black,Medium,N
+A3659,42,$250,F,black & whie,Medium,N
+A3660,25,$250,F,Tan,Small,N
+A3661,19,$250,F,Silver & Tan,Small,N
+A3662,29,$250,M,Tan with Black Mask,Medium,N
+A3663,75,$250,F,Brown & White,Medium,N
+A3665,19,$250,F,Black,Medium,Y
+A3666,21,$250,F,White,Small,Y
+A3667,52,$250,M,White,Medium,N
+A3669,11,$250,F,Black,Medium,N
+A3670,18,$250,F,Black & Brown,Small,N
+A3671,18,$195,F,Black & White,Medium,Y
+A3672,21,$175,F,Brown,Small,Y
+A3673,25,$250,F,Brown & White,Medium,N
+A3674,14,$250,F,White & Black,Small,N
+A3675,27,$250,F,White & Black,Medium,N
+A3676,68,$100,F,Blue & White,Medium,N
+A3677,10,$250,F,Black & White,Medium,N
+A3678,41,$250,M,Tan,Medium,N
+A3679,40,$250,M,Black & Brown,Small,N
+A3680,107,$250,M,Brown with Tan spots,Small,N
+A3681,17,$250,F,Brown & White,Medium,N
+A3682,76,$250,M,Black,Medium,N
+A3683,34,$250,M,Black & Brindle,Large,N
+A3686,68,$195,M,Tricolor,Small,N
+A3687,68,$250,F,White,Small,N
+A3688,22,$250,F,White,Small,N
+A3689,10,$175,F,Black & White,Medium,Y
+A3690,4,$195,M,Yellow,Large,N
+A3692,32,$250,M,Brown & White,Large,N
+A3693,15,$250,M,Tan,Small,Y
+A3694,5,$125,M,White,Small,N
+A3695,80,$250,M,White & Black,Medium,N
+A3697,36,$195,F,Black & White,Medium,N
+A3698,38,$250,F,White with Brown,Medium,Y
+A3699,46,$250,M,White & Brown,Medium,N
+A3702,21,$175,M,Blue & White,Medium,Y
+A3703,2,$125,M,Blue & White,Medium,Y
+A3704,20,$195,M,white,Medium,Y
+A3705,16,$250,F,black & white,Medium,Y
+A3707,118,$125,F,White,Small,Y
+A3708,11,$175,M,White & Black,Medium,Y
+A3709,29,$250,F,Black & White,Medium,N
+A3710,24,$250,M,Black,Medium,N
+A3711,17,$250,M,Blue & White,Large,N
+A3713,7,$250,F,Tan & White,Small,N
+A3714,100,$100,M,White & Brown,Medium,N
+A3715,35,$250,F,Brown & White,Medium,N
+A3716,24,$250,F,Silver,Small,N
+A3717,10,$250,M,Black w/brown,Small,N
+A3719,14,$250,F,Black & White,Small,U
+A3721,27,$250,M,Black,Large,N
+A3722,41,$250,M,Black & White,Medium,N
+A3723,28,$250,M,Brindle,Medium,N
+A3724,15,$250,M,Tricolor,Medium,N
+A3725,19,$250,M,Yellow,Large,Y
+A3726,96,$250,F,Black &  Brown,Small,N
+A3727,42,$250,M,Black & Red,Large,N
+A3728,14,$250,F,Brindle,Medium,N
+A3729,47,$195,F,White & Tan,Medium,Y
+A3730,37,$195,F,White & Tan,Medium,Y
+A3733,22,$250,M,White and some grayish black,Large,N
+A3735,29,$195,M,Blue & white,Medium,N
+A3736,58,$175,F,Brindle,Medium,N
+A3737,14,$250,F,Brindle,Medium,N
+A3738,18,$250,F,Brown & Black,Small,N
+A3739,8,$250,F,Tan,Medium,Y
+A3740,19,$250,F,White,Large,N
+A3741,15,$195,F,White & Brown,Medium,Y
+A3742,26,$250,F,"White, Black & Tan",Medium,N
+A3744,0,$195,F,Fawn,Small,N
+A3745,202,$100,F,Tan & White,Medium,N
+A3746,51,$195,M,Black & Brown,Small,N
+A3747,12,$250,F,Blue & White,Medium,N
+A3749,22,$250,M,White & Tan,Medium,N
+A3750,6,$250,F,Tan,Medium,N
+A3751,24,$195,F,Brown,Small,N
+A3752,33,$250,M,Brown,Small,N
+A3753,45,$250,M,Black and Tan ,Small,N
+A3754,37,$250,M,Black,Medium,N
+A3755,31,$250,M,Tan  ,Small,N
+A3756,67,$250,M,Tan  ,Medium,N
+A3759,58,$195,F,Blue & White,Medium,Y
+A3761,23,$250,F,Black & White,Medium,N
+A3763,15,$250,M,Brown & Tan,Medium,N
+A3764,44,$195,M,tan/white,Medium,Y
+A3765,73,$250,F,White ,Small,U
+A3767,68,$125,F,Grey & White,Small,Y
+A3768,23,$125,F,Grey & White,Small,Y
+A3769,22,$250,F,Tan,Medium,Y
+A3770,71,$250,F,White,X Large,N
+A3771,15,$250,F,White & Brwon,Small,N
+A3773,15,$175,F,Grey & Black,Small,Y
+A3774,56,$250,F,White & Brown,Small,N
+A3775,12,$195,F,Blue & White,Medium,N
+A3776,40,$250,F,Brown & Black,Medium,N
+A3777,16,$250,F,Tan,Medium,N
+A3779,23,$250,F,Fawn & White,Medium,N
+A3782,30,$250,M,Black,Medium,N
+A3783,39,$250,F,Tan and cream,Medium,N
+A3785,11,$250,F,Brown & Tan,Small,N
+A3788,9,$250,F,Tan,Medium,N
+A3789,55,$195,F,WHite & Fawn,Medium,N
+A3793,68,$250,F,White with brown/black markings,Medium,N
+A3794,18,$250,F,Black & White,Small,N
+A3795,15,$250,F,White & Grey,Medium,N
+A3797,43,$250,F,White,,
+A3798,3,$250,F,Tricolor,Small,N
+A3799,53,$250,F,Chocolate & White ,Medium,N
+A3803,104,$250,F,Brindle,Medium,N
+A3804,72,$250,F,Brindle,Medium,N
+A3805,33,$250,F,Brown,Medium,N
+A3807,115,$100,F,White & Brown,Large,Y
+A3808,12,$250,M,Tan,Medium,N
+A3810,28,$175,M,Tricolor,Medium,N
+A3812,39,$250,F,Tricolor,Medium,N
+A3813,22,$250,M,Black & White,Medium,N
+A3814,28,$250,F,White & Grey,Small,N
+A3815,27,$250,M,Black ,Small,N
+A3816,65,$250,F,Black & White,Medium,N
+A3819,0,$250,F,Tan & White,Small,N
+A3820,65,$195,F,Brown and White,Small,N
+A3821,107,$250,F,Brindle & White,Medium,N
+A3822,170,$195,F,White,Medium,N
+A3823,50,$250,F,Black,Medium,N
+A3825,23,$250,F,Black ,Small,N
+A3826,48,$250,F,Black & White,Medium,N
+A3828,20,$250,F,Brown & Tan,Medium,N
+A3829,9,$250,M,Brown & Black,Medium,Y
+A3830,134,$250,M,Tricolor,Large,N
+A3831,21,$250,M,Tricolor,Large,N
+A3832,19,$250,F,Black & White,Medium,N
+A3833,44,$195,M,Tan,Medium,N
+A3834,33,$195,M,Tan & White,Medium,Y
+A3836,61,$250,F,Black & Tan,Small,N
+A3837,0,$250,M,Black & White,Large,N
+A3838,58,$250,M,Tan & White,Medium,N
+A3839,41,$250,F,Tan with/ black,Medium,Y
+A3840,10,$250,M,White,Small,N
+A3841,53,$250,F,Brindle,Small,N
+A3842,72,$250,M,Chocolate,Medium,N
+A3843,11,$250,F,Brown,Small,N
+A3844,14,$250,F,Tan & Black,Small,Y
+A3845,78,$250,F,White with brown/black markings,Medium,N
+A3846,13,$250,M,Black,Small,Y
+A3847,30,$250,M,Black & Tan,Small,Y
+A3848,153,$250,M,Brindle,Medium,N
+A3850,35,$250,F,Brindle & White,Medium,N
+A3852,0,$250,M,Tricolor,Medium,N
+A3853,17,$250,M,White,Small,N
+A3854,261,$100,M,Brown/Black & White,Medium,N
+A3855,143,$100,M,Brown/Black & White,Medium,N
+A3856,36,$250,F,White & Brindle,Medium,N
+A3859,34,$250,M,Fawn,Medium,N
+A3860,23,$250,F,Black & White,Medium,N
+A3861,22,$250,F,Black & White,Medium,N
+A3862,18,$250,F,Brown,Medium,N
+A3863,17,$250,F,Black ,Small,N
+A3864,12,$250,F,Brindle,Medium,Y
+A3865,15,$250,F,Tan & White,Medium,N
+A3867,64,$250,M,Brown,Medium,N
+A3868,28,$250,F,Black & Tan,Medium,N
+A3869,25,$250,M,White & Tan,Medium,N
+A3870,7,$250,F,Fawn,Small,N
+A3871,0,$250,F,Tricolor,Small,N
+A3874,11,$250,M,Red,Medium,N
+A3875,24,$250,M,Black & Brown,Medium,N
+A3876,15,$195,F,White,Small,N
+A3877,17,$250,M,Black & Tan,Medium,N
+A3878,30,$195,M,Blue & wWhite,Medium,N
+A3879,12,$195,M,Brindle,Medium,N
+A3882,13,$195,M,Tan & White,Medium,N
+A3885,28,$250,F,Tan & White,Medium,N
+A3888,176,$195,F,Brindle & White,Medium,N
+A3889,27,$250,F,Black ,Small,N
+A3890,37,$250,F,White & Tan,Medium,N
+A3891,12,$250,M,Brindle,Large,N
+A3892,27,$195,F,Brindle,Small,N
+A3893,49,$250,M,Brindle,Small,N
+A3894,27,$250,F,Brown,Medium,N
+A3895,42,$250,M,Tan,Small,N
+A3896,42,$250,F,Brindle & White,Medium,N
+A3898,26,$250,F,White & Tan,Small,N
+A3900,0,$250,F,Fawn,Medium,N
+A3901,10,$250,F,Black,Small,N
+A3905,12,$250,M,Brown & Tan,Small,N
+A3906,21,$250,M,Tan,Small,N
+A3907,65,$250,M,Tan & Black with white on chest,Small,N
+A3908,20,$250,F,Brindle,Medium,N
+A3909,2,$250,F,Brown,Medium,Y
+A3910,43,$250,F,Tan and white,Small,N
+A3912,16,$250,F,White,Small,N
+A3914,40,$250,F,Black ,Small,N
+A3915,49,$250,M,Blue & White,Small,N
+A3916,58,$250,F,Grey,Small,N
+A3917,69,$250,M,Tricolor,Medium,N
+A3918,40,$250,M,Black,Small,N
+A3919,14,$250,M,Tan,Small,N
+A3920,40,$195,F,Black & White,Small,N
+A3922,27,$250,M,Black ,Small,N
+A3924,31,$250,M,Black & Brown,Medium,N
+A3926,95,$250,M,Brindle & White,Medium,N
+A3927,15,$250,M,Blue and white,Medium,N
+A3929,64,$250,F,Black,Medium,N
+A3931,26,$250,M,Blue Merle,Medium,N
+A3933,54,$250,M,White,Small,N
+A3934,18,$250,M,White & Brown,Small,Y
+A3936,148,$100,M,White & Brown,Large,N
+A3937,24,$250,M,Black,Medium,N
+A3938,16,$250,M,Dark Grey,Small,N
+A3940,74,$250,F,Red,Medium,N
+A3941,25,$250,M,Black ,Small,N
+A3942,12,$250,F,Red,Medium,N
+A3943,179,$250,F,Black & White,Medium,N
+A3944,69,$250,F,Black & White,Medium,N
+A3945,6,$250,F,Black &Tan,Small,N
+A3946,7,$195,F,White & Red,Medium,Y
+A3948,13,$250,M,Black,Medium,N
+A3949,20,$250,F,Brown/white paws,Medium,Y
+A3950,70,$250,F,Black,Medium,N
+A3951,71,$250,F,Brown & White,Medium,N
+A3955,13,$250,F,Tan,Medium,Y
+A3957,19,$250,F,Dark Brindle,Medium,N
+A3958,110,$250,M,Brindle & White,Medium,N
+A3959,14,$175,M,Grey  ,Medium,N
+A3960,23,$250,F,Tan  ,Medium,N
+A3962,32,$250,M,Tan & Black,Medium,N
+A3963,55,$250,M,White with brown patches,Medium,N
+A3965,459,$195,F,Black,Small,N
+A3966,47,$250,F,Black,Small,N
+A3967,64,$100,F,Brown & White,Large,N
+A3968,30,$125,F,Tan and black,Small,N
+A3970,53,$250,F,Merle/Catahoula Tri clolor,Medium,N
+A3973,69,$250,M,Tricolor,Small,N
+A3974,76,$250,F,Black & White,Medium,N
+A3975,33,$195,F,Blue & White,Medium,Y
+A3976,29,$250,F,Brindle,Medium,N
+A3977,0,$250,F,White w/beige,Small,N
+A3978,55,$250,M,Tan,Small,N
+A3979,170,$100,M,white with tan,Medium,N
+A3981,94,$100,M,White,Large,Y
+A3982,81,$250,M,White,Medium,N
+A3983,30,$195,M,Black & White,Medium,Y
+A3984,62,$100,M,Black/White Brindle,Medium,Y
+A3985,76,$250,M,Black & White,Medium,N
+A3986,83,$250,M,Black & White,Medium,N
+A3987,33,$250,M,Brindle,Large,N
+A3989,5,$250,M,White & Brown,Small,Y
+A3990,70,$250,M,Brindle & White,Medium,N
+A3991,15,$250,M,Brindle & White,Medium,N
+A3992,7,$250,F,Black,Small,N
+A3993,158,$195,M,Brown,Medium,Y
+A3995,16,$250,F,Black,Medium,N
+A3996,10,$125,F,Tan,Small,N
+A3997,13,$250,M,White,Small,N
+A3998,7,$250,F,Black,Medium,N
+A3999,67,$250,F,Brown,Medium,N
+A4000,37,$195,F,Black,Medium,N
+A4001,64,$250,F,Chocolate & White ,Medium,N
+A4002,3,$195,M,Tan,Medium,N
+A4003,16,$195,M,Blue & White,Medium,N
+A4004,14,$250,M,Black & White,Medium,N
+A4006,32,$250,M,White w/Brown spots,Medium,Y
+A4008,41,$250,M,White with chocolate,Small,N
+A4009,49,$250,M,Black & White,Medium,N
+A4010,24,$250,M,Tan,Medium,N
+A4011,25,$250,M,Tan & White,Small,N
+A4014,18,$250,M,Black & Tan,Medium,N
+A4015,31,$195,M,Black & White,Medium,N
+A4016,22,$250,M,Brown & Tan,Large,Y
+A4017,23,$250,M,Tan,Medium,N
+A4018,74,$250,F,Black & White,Medium,N
+A4019,24,$250,F,Tricolor,Small,N
+A4023,21,$250,M,White & Black,Medium,N
+A4024,28,$250,F,Black,Medium,N
+A4025,0,$250,M,Black,Small,N
+A4027,148,$195,F,Black,Medium,N
+A4028,207,$100,F,White & Black,Medium,Y
+A4029,18,$250,F,light tan,Medium ,N
+A4031,15,$250,F,Brindle & white,Large,N
+A4032,2,$125,M,Brown,Small,Y
+A4033,17,$250,F,Black,Medium,Y
+A4039,80,$250,F,Brindle,Medium,N
+A4040,110,$250,M,Black & White,Large,Y
+A4041,63,$250,M,Black & White,Large,Y
+A4042,47,$195,F,Brindle & White,Medium,N
+A4043,5,$195,F,Brindle & White,Medium,N
+A4045,71,$250,F,Fawn,Medium,N
+A4046,11,$250,F,Tricolor,Small,N
+A4047,28,$250,M,Tan,Small,N
+A4048,64,$250,M,Tan & White,Medium,N
+A4049,30,$250,M,Brown & White,Medium,Y
+A4050,74,$250,F,White & Grey,Medium,N
+A4053,39,$250,M,Tan,Small,N
+A4054,27,$250,M,Tan,Small,N
+A4057,52,250,M,White,Small,N
+A4059,20,$250,M,Black & Tan,Small,N
+A4060,72,$195,M,Black & Tan,Small,N
+A4062,18,250,M,Black & Brown,Small,N
+A4064,24,$250,F,Black,Medium,N
+A4065,84,$250,F,Black & Brown,Medium,N
+A4066,17,250,F,Black & Tan,Large,N
+A4067,60,$250,F,Black & Tan,Medium,N
+A4068,135,$250,F,Brindle,Medium,N
+A4072,4,$250,F,Brown,Medium,N
+A4073,23,$250,F,Brindle,Medium,N
+A4074,13,250,F,Brown & Black,Large,N
+A4075,33,$175,F,Brindle & white,Medium,N
+A4077,123,$250,F,Tan w/black face,Small,N
+A4079,53,$250,M,Black,Medium,N
+A4081,20,$250,F,Black w/White Chest,Small,N
+A4082,20,$195,M,Tan & White,Medium,N
+A4084,20,$250,M,Yellow,Medium,N
+A4087,21,$125,M,Black,Small,N
+A4088,36,$250,M,Brindle,Small,N
+A4089,20,$250,M,Golden,Small,N
+A4090,25,$250,M,Yellow,Large,N
+A4091,236,$195,M,Tan & White,Medium,N
+A4093,5,$250,M,Black,Large,Y
+A4094,49,$195,M,Tan,Small,N
+A4095,12,$195,M,Tan & White,Medium,N
+A4097,22,$195,F,Black,Medium,N
+A4098,22,$250,M,Brown,Large,Y
+A4099,15,$250,M,White & Red,Medium,N
+A4100,36,$250,F,Tricolor,Small,N
+A4101,28,$250,F,Black,Small,N
+A4102,20,$250,F,Black w/White,Small,N
+A4103,20,$250,M,Chocolate,Small,N
+A4105,66,$250,M,Black &  White,Medium,N
+A4107,15,$195,M,Red,Large,N
+A4110,52,$250,F,Tricolor,Medium,N
+A4111,35,$250,M,White & Tan,Small,N
+A4112,34,$250,M,Tan,Small,N
+A4113,183,$100,M,Brown and white,Medium,Y
+A4114,51,$250,M,Tricolor,Medium,N
+A4115,40,$250,M,White & Brown,Medium,N
+A4116,16,$250,M,Tan,Small,N
+A4117,57,$250,F,Brown,Medium,N
+A4118,27,$100,F,Brown & White,Medium,Y
+A4119,32,$250,F,Brown & White,Medium,N
+A4120,27,100,F,Brown & White,Medium,Y
+A4122,20,$250,F,Yellow,Medium,N
+A4123,5,$250,F,Black & Tan,Medium,Y
+A4126,0,250,F,Black & Tan,Small,N
+A4128,53,$195,M,Black & white,Medium,N
+A4129,30,$250,M,Brown & White,Medium,Y
+A4130,20,$195,M,White & Tan,Small,N
+A4131,37,$250,M,Brindle,Medium,N
+A4132,215,$100,F,Black,Medium,Y
+A4134,3,$250,F,Tricolor,Small,N
+A4135,6,$250,F,Tricolor,Small,N
+A4136,9,$195,M,Tan,Small,N
+A4137,12,$250,M,Grey,Small,N
+A4138,15,$195,M,Silver & Tan,Small,N
+A4139,33,$250,M,Tan,Small,N
+A4140,12,$195,M,White,Small,N
+A4141,16,$195,M,Fawn,Small,N
+A4142,7,$250,F,Black,Medium,N
+A4144,35,$250,M,black,Medium,Y
+A4147,43,$250,F,White/Brown,Small,N
+A4148,22,$250,M,Brown & Black,Small,N
+A4149,6,$250,M,Blue & White,Medium,N
+A4152,89,$250,M,Tan & White,Medium,N
+A4154,82,$250,M,Grey,Medium,N
+A4155,41,$195,M,White a& Brown,Medium,N
+A4156,23,$250,M,White,Small,N
+A4157,12,$175,F,Black & Brown,Small,N
+A4158,24,$250,M,Black,Medium,N
+A4162,46,$250,M,Black & White,Medium,N
+A4163,15,$250,F,Black,Small,Y
+A4164,393,$195,F,Gray/tan,Medium,U
+A4165,81,$250,M,White,Medium,Y
+A4166,28,$250,M,Brindle,Large,Y
+A4167,11,$195,M,Grey  ,Small,Y
+A4169,28,$250,M,Brindle & White,Medium,N
+A4170,80,$250,M,Brown & white,Large,N
+A4171,42,$250,M,White,Medium ,N
+A4173,19,$250,M,Black,Medium,N
+A4174,13,$250,M,Black & White,Medium,N
+A4175,67,$250,M,Black & White,Medium,N
+A4176,47,$250,M,Black & Brown,Medium,N
+A4177,37,$250,F,Yellow,Medium,N
+A4178,91,$175,M,Boston Terrier mix  ,Medium,N
+A4179,13,$175,M,Boston Terrier mix  ,Medium,N
+A4180,29,$250,M,Black & White,Large,N
+A4181,29,$250,M,Brindle,Medium,N
+A4182,17,$250,F,Tan,Medium,N
+A4183,22,$250,F,Brindle,Large,N
+A4186,24,$250,M,Brindle,Medium,Y
+A4187,15,$250,M,Black & White,Large,N
+A4189,28,$250,M,Brindle,Medium,N
+A4190,19,$250,F,White with Brindle,Medium,N
+A4191,57,$250,F,Tan,Medium,N
+A4194,16,$250,F,Black,Medium,N
+A4197,11,$195,F,Fawn & White,Medium,N
+A4198,30,$250,F,Tan,Medium,N
+A4199,40,$250,M,Brindle,Large,N
+A4200,29,$250,M,Brindle,Medium,N
+A4201,9,$250,F,Black,Medium,Y
+A4202,50,$250,M,Black & Grey,Medium,Y
+A4204,19,$250,M,White,Large,N
+A4206,21,$250,M,White with Brown Spots,Medium,N
+A4210,72,$250,F,Brindle,Large,N
+A4211,53,$250,M,White & Chocolate,Medium,N
+A4213,286,$250,F,Brown & White,Small,N
+A4216,4,$250,F,Black & White,Medium,Y
+A4217,29,$250,F,BLack & White,Medium,N
+A4219,58,$250,F,Brindle,Medium,N
+A4220,9,$195,F,Brown & White,Small,U
+A4221,11,$250,F,Tan & White,Small,N
+A4222,206,$195,F,White,Medium,Y
+A4223,132,$195,M,White w/ Tan,Medium,N
+A4224,215,$250,F,Black and white,Medium,N
+A4225,40,$250,F,Black Brindle,Large,N
+A4228,56,$195,F,Black and Grey,Large,N
+A4230,30,$195,M,Tricolor,Medium,N
+A4231,19,$250,M,Black,Medium,N
+A4232,47,$250,M,Fawn & White,Medium,N
+A4234,24,$250,F,Tan & White,Medium,N
